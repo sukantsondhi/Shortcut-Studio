@@ -1,0 +1,44 @@
+﻿[
+  {
+    "id": "word",
+    "app": "Word",
+    "label": "Keyboard shortcuts",
+    "url": "https://support.microsoft.com/{locale}/office/keyboard-shortcuts-in-word-95ef89dd-7142-4b50-afb2-f762f663ceb2"
+  },
+  {
+    "id": "excel",
+    "app": "Excel",
+    "label": "Keyboard shortcuts",
+    "url": "https://support.microsoft.com/{locale}/office/keyboard-shortcuts-in-excel-1798d9d5-842a-42b8-9c99-9b7213f0040f"
+  },
+  {
+    "id": "powerpoint-create",
+    "app": "PowerPoint",
+    "label": "Create presentations",
+    "url": "https://support.microsoft.com/{locale}/office/use-keyboard-shortcuts-to-create-powerpoint-presentations-ebb3d20e-dcd4-444f-a38e-bb5c5ed180f4"
+  },
+  {
+    "id": "powerpoint-deliver",
+    "app": "PowerPoint",
+    "label": "Deliver presentations",
+    "url": "https://support.microsoft.com/{locale}/office/use-keyboard-shortcuts-to-deliver-powerpoint-presentations-1524ffce-bd2a-45f4-9a7f-f18b992b93a0"
+  },
+  {
+    "id": "outlook",
+    "app": "Outlook",
+    "label": "Keyboard shortcuts",
+    "url": "https://support.microsoft.com/{locale}/office/keyboard-shortcuts-for-outlook-3cdeb221-7ae5-4c1d-8c1d-9e63216c1efd"
+  },
+  {
+    "id": "onenote",
+    "app": "OneNote",
+    "label": "Keyboard shortcuts",
+    "url": "https://support.microsoft.com/{locale}/office/keyboard-shortcuts-in-onenote-44b8b3f4-c274-4bcc-a089-e80fdcc87950"
+  },
+  {
+    "id": "access",
+    "app": "Access",
+    "label": "Keyboard shortcuts",
+    "url": "https://support.microsoft.com/{locale}/office/keyboard-shortcuts-for-access-70a673e4-4f7b-4300-b8e5-3320fa6606e2"
+  }
+]

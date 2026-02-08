@@ -1,0 +1,115 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Office Key Atlas</title>
+    <link rel="stylesheet" href="assets/styles.css" />
+  </head>
+  <body class="dark">
+    <div class="grain"></div>
+    <header class="hero">
+      <nav class="top-nav">
+        <div class="logo">Office Key Atlas</div>
+        <div class="nav-actions">
+          <label class="theme-toggle" for="darkMode">
+            <span>Theme</span>
+            <input id="darkMode" type="checkbox" />
+            <span class="switch" aria-hidden="true"></span>
+          </label>
+          <button id="exportOpen" class="button-ghost" type="button">Export PDF</button>
+          <a
+            class="button-ghost repo-button"
+            href="https://github.com/sukantsondhi/Office-Cheat-sheet"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+              <path
+                d="M12 2a10 10 0 0 0-3.16 19.49c.5.09.68-.22.68-.48v-1.7c-2.77.6-3.36-1.17-3.36-1.17-.46-1.15-1.12-1.46-1.12-1.46-.92-.62.07-.61.07-.61 1.02.07 1.56 1.05 1.56 1.05.9 1.55 2.36 1.1 2.94.85.09-.66.35-1.1.64-1.35-2.22-.25-4.56-1.11-4.56-4.95 0-1.09.39-1.98 1.03-2.68-.1-.25-.45-1.27.1-2.65 0 0 .84-.27 2.75 1.02A9.6 9.6 0 0 1 12 6.8c.85 0 1.7.12 2.5.35 1.9-1.29 2.74-1.02 2.74-1.02.56 1.38.2 2.4.1 2.65.64.7 1.03 1.59 1.03 2.68 0 3.85-2.35 4.7-4.58 4.95.36.31.68.92.68 1.85v2.75c0 .27.18.58.69.48A10 10 0 0 0 12 2Z"
+              />
+            </svg>
+            Go to repo
+          </a>
+          <a class="coffee-button" href="https://www.buymeacoffee.com/sukantsondhi" target="_blank" rel="noreferrer">
+            Buy me a coffee
+          </a>
+        </div>
+      </nav>
+
+      <div class="hero-content">
+        <div>
+          <h1>Every official Microsoft Office shortcut, in one living atlas.</h1>
+          <p>
+            Pulls straight from Microsoft Support pages, refreshes weekly, and lets you build crisp PDFs for each app or
+            your entire workflow.
+          </p>
+          <div class="hero-meta">
+            <span id="lastUpdated">Loading updates...</span>
+            <span id="shortcutCount">0 shortcuts</span>
+          </div>
+          <div class="hero-actions">
+            <button id="randomSpotlight" class="button-primary" type="button">Random shortcut</button>
+            <button id="copySpotlight" class="button-ghost" type="button">Copy spotlight</button>
+          </div>
+        </div>
+        <div class="hero-card">
+          <div class="card-title">Spotlight</div>
+          <div id="spotlight"></div>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <section class="controls">
+        <div class="search-box">
+          <input id="searchInput" type="search" placeholder="Search shortcuts, actions, or keys" />
+          <div class="search-hint">Tip: Press “/” to jump to search, “F” for favorites, “R” for random.</div>
+        </div>
+        <div>
+          <div class="filter-group" id="appFilters"></div>
+        </div>
+        <div>
+          <div class="filter-group" id="platformFilters"></div>
+        </div>
+        <div class="toggle-row">
+          <label><input id="showFavorites" type="checkbox" /> Favorites</label>
+          <label><input id="compactMode" type="checkbox" /> Compact view</label>
+          <button id="expandAll" class="button-ghost" type="button">Expand all</button>
+          <button id="collapseAll" class="button-ghost" type="button">Collapse all</button>
+        </div>
+      </section>
+
+      <section id="results"></section>
+    </main>
+
+    <footer>
+      <div class="footer-grid">
+        <div>Data sourced from official Microsoft Support pages. Updated weekly via GitHub Actions.</div>
+        <div>
+          <a class="footer-link" href="https://github.com/sukantsondhi/Office-Cheat-sheet" target="_blank" rel="noreferrer">
+            Go to repo
+          </a>
+        </div>
+      </div>
+    </footer>
+
+    <dialog id="exportDialog">
+      <form method="dialog">
+        <h3>Export PDF</h3>
+        <p>Choose a scope to export. "Current view" respects your filters and search.</p>
+        <select id="exportSelect"></select>
+        <div class="dialog-actions">
+          <button class="button-ghost" value="cancel">Cancel</button>
+          <button id="exportRun" class="button-primary" value="confirm">Export</button>
+        </div>
+      </form>
+    </dialog>
+
+    <div id="toast"></div>
+
+    <script src="https://cdn.jsdelivr.net/npm/jspdf@2.5.1/dist/jspdf.umd.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/jspdf-autotable@3.5.31/dist/jspdf.plugin.autotable.min.js"></script>
+    <script src="assets/app.js" defer></script>
+  </body>
+</html>

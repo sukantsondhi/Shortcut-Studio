@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Book">
+  <rect width="64" height="64" rx="14" fill="#1a2230"/>
+  <path d="M12 14c0-2.2 1.8-4 4-4h16c4.1 0 7.7 1.5 10.5 4.2V50c-2.8-2.7-6.4-4.2-10.5-4.2H16c-2.2 0-4-1.8-4-4V14z" fill="#5ec0ff"/>
+  <path d="M52 14c0-2.2-1.8-4-4-4H32c-4.1 0-7.7 1.5-10.5 4.2V50c2.8-2.7 6.4-4.2 10.5-4.2h16c2.2 0 4-1.8 4-4V14z" fill="#ff9a5f"/>
+  <path d="M21.5 14.2v35.6M42.5 14.2v35.6" stroke="#f7f2ea" stroke-width="2.2" stroke-linecap="round"/>
+</svg>

@@ -1,6 +1,6 @@
-﻿# Office-Cheat-sheet
+﻿# Shortcut Studio
 
-Office Key Atlas is a GitHub Pages site that aggregates official Microsoft Office keyboard shortcuts, refreshes weekly via GitHub Actions, and lets users export print-ready PDFs by app or across all apps.
+Shortcut Studio is a GitHub Pages site that aggregates official Microsoft Office keyboard shortcuts, refreshes weekly via GitHub Actions, and lets users export print-ready PDFs by app or across all apps.
 
 ## What's included
 

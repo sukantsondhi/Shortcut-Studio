@@ -461,7 +461,7 @@ const exportPdf = (mode) => {
   const drawHeader = (appName) => {
     doc.setFont("helvetica", "bold");
     doc.setFontSize(18);
-    doc.text("Office Key Atlas", 40, 32);
+    doc.text("Shortcut Studio", 40, 32);
     doc.setFont("helvetica", "normal");
     doc.setFontSize(10);
     doc.text(`Generated ${now.toLocaleString()}`, 40, 48);

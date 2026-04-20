@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-04-13T07:44:25.417Z",
+  "generatedAt": "2026-04-20T07:46:15.798Z",
   "locale": "en-us",
   "stats": {
     "appCount": 6,
     "sourceCount": 7,
     "platformCount": 25,
-    "shortcutCount": 2897
+    "shortcutCount": 2895
   },
   "apps": [
     {
@@ -5907,18 +5907,10 @@
                     },
                     {
                       "action": "Send object back one position.",
-                      "keys": "Ctrl+Left bracket ([) Office 2010 and Office 2007: Not available"
-                    },
-                    {
-                      "action": "Send object forward one position.",
-                      "keys": "Ctrl+Right bracket (]) Office 2010 and Office 2007: Not available"
-                    },
-                    {
-                      "action": "Send object to back.",
                       "keys": "Ctrl+Shift+Left bracket ([) Office 2010 and Office 2007: Not available"
                     },
                     {
-                      "action": "Send object to front.",
+                      "action": "Bring object forward one position.",
                       "keys": "Ctrl+Shift+Right bracket (]) Office 2010 and Office 2007: Not available"
                     },
                     {
@@ -6787,7 +6779,7 @@
                       "keys": "Command+Option+Shift+B"
                     },
                     {
-                      "action": "Send object forward one position.",
+                      "action": "Bring object forward one position.",
                       "keys": "Command+Option+Shift+F"
                     },
                     {
@@ -6795,7 +6787,7 @@
                       "keys": "Command+Shift+B"
                     },
                     {
-                      "action": "Send object to front.",
+                      "action": "Bring object to front.",
                       "keys": "Command+Shift+F"
                     },
                     {
@@ -7718,24 +7710,24 @@
                       "notes": "⌘+K"
                     },
                     {
-                      "action": "Send the object to the back.",
-                      "keys": "Ctrl+Shift+Left bracket ([)",
-                      "notes": "⌘+Shift+Option+Left bracket ([)"
-                    },
-                    {
                       "action": "Send the object back one position.",
                       "keys": "Ctrl+Left bracket ([)",
                       "notes": "⌘+Shift+Option+B"
                     },
                     {
-                      "action": "Send the object to the front.",
-                      "keys": "Ctrl+Shift+Right bracket (])",
-                      "notes": "⌘+Shift+F"
+                      "action": "Send the object to back.",
+                      "keys": "Ctrl+Shift+Left bracket ([)",
+                      "notes": "⌘+Shift+Option+Left bracket ([)"
                     },
                     {
-                      "action": "Send the object forward one position.",
+                      "action": "Bring the object forward one position.",
                       "keys": "Ctrl+Right bracket (])",
                       "notes": "⌘+Shift+Option+F"
+                    },
+                    {
+                      "action": "Bring the object to front.",
+                      "keys": "Ctrl+Shift+Right bracket (])",
+                      "notes": "⌘+Shift+F"
                     },
                     {
                       "action": "Rotate the selected object by 15 degrees increments clockwise.",
@@ -7904,12 +7896,12 @@
                   "shortcuts": [
                     {
                       "action": "Increase the font size.",
-                      "keys": "Ctrl+Right bracket (]) or Ctrl+Shift+Right angle bracket (>)",
+                      "keys": "Ctrl+Shift+Right angle bracket (>)",
                       "notes": "⌘+Shift+Right angle bracket (>)"
                     },
                     {
                       "action": "Decrease the font size.",
-                      "keys": "Ctrl+Left bracket ([) or Ctrl+Shift+Left angle bracket (<)",
+                      "keys": "Ctrl+Shift+Left angle bracket (<)",
                       "notes": "⌘+Shift+Left angle bracket (<)"
                     },
                     {

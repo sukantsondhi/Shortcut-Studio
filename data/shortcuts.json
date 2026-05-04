@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-04-27T08:00:20.192Z",
+  "generatedAt": "2026-05-04T08:11:48.355Z",
   "locale": "en-us",
   "stats": {
     "appCount": 6,
     "sourceCount": 7,
     "platformCount": 25,
-    "shortcutCount": 2895
+    "shortcutCount": 2900
   },
   "apps": [
     {
@@ -3155,7 +3155,7 @@
                     },
                     {
                       "action": "Zoom in.",
-                      "keys": "Ctrl+Alt+Equal sign ( = )"
+                      "keys": "Ctrl+Alt+Equal sign (=)"
                     },
                     {
                       "action": "Zoom out.",
@@ -3445,8 +3445,8 @@
                       "keys": "Ctrl+Shift+A"
                     },
                     {
-                      "action": "Insert the AutoSum formula",
-                      "keys": "Alt+Equal sign ( = )"
+                      "action": "Insert the Sum formula",
+                      "keys": "Alt+Equal sign (=)"
                     },
                     {
                       "action": "Invoke Flash Fill to automatically recognize patterns in adjacent columns and fill the current column",
@@ -3807,8 +3807,16 @@
                   "title": "General",
                   "shortcuts": [
                     {
+                      "action": "Ctrl",
+                      "keys": "Many of the shortcuts that use the key on a Windows keyboard also work with the Control key in Excel for Mac. However, not all do."
+                    },
+                    {
+                      "action": "Command",
+                      "keys": "To quickly find a shortcut in this article, you can use the Search. Press+F, and then type your search words."
+                    },
+                    {
                       "action": "Excel",
-                      "keys": "Click-to-add is available but requires a setup. Select > Preferences > Edit > Enable Click to Add Mode. To start a formula, type an equal sign ( = ), and then select cells to add them together. The plus sign (+) will be added automatically."
+                      "keys": "Click-to-add is available but requires a setup. Select > Preferences > Edit > Enable Click to Add Mode. To start a formula, type an equal sign (=), and then select cells to add them together. The plus sign (+) will be added automatically."
                     }
                   ]
                 },
@@ -3817,35 +3825,35 @@
                   "shortcuts": [
                     {
                       "action": "Paste selection.",
-                      "keys": "Cmd+V or Control+V"
+                      "keys": "Cmd+V or Ctrl+V"
                     },
                     {
                       "action": "Copy selection.",
-                      "keys": "Cmd+C or Control+C"
+                      "keys": "Cmd+C or Ctrl+C"
                     },
                     {
                       "action": "Save workbook.",
-                      "keys": "Cmd+S or Control+S"
+                      "keys": "Cmd+S or Ctrl+S"
                     },
                     {
                       "action": "Undo action.",
-                      "keys": "Cmd+Z or Control+Z"
+                      "keys": "Cmd+Z or Ctrl+Z"
                     },
                     {
                       "action": "Redo action.",
-                      "keys": "Cmd+Y or Control+Y or Cmd+Shift+Z"
+                      "keys": "Cmd+Y or Ctrl+Y or Cmd+Shift+Z"
                     },
                     {
                       "action": "Cut selection.",
-                      "keys": "Cmd+X or Control+X or Shift+Mac Delete button with a cross symbol on it."
+                      "keys": "Cmd+X or Ctrl+X or Shift+Mac Delete button with a cross symbol on it."
                     },
                     {
                       "action": "Apply bold formatting.",
-                      "keys": "Cmd+B or Control+B"
+                      "keys": "Cmd+B or Ctrl+B"
                     },
                     {
                       "action": "Print workbook.",
-                      "keys": "Cmd+P or Control+P"
+                      "keys": "Cmd+P or Ctrl+P"
                     },
                     {
                       "action": "Open Visual Basic.",
@@ -3853,19 +3861,19 @@
                     },
                     {
                       "action": "Fill cells down.",
-                      "keys": "Cmd+D or Control+D"
+                      "keys": "Cmd+D or Ctrl+D"
                     },
                     {
                       "action": "Fill cells right.",
-                      "keys": "Cmd+R or Control+R"
+                      "keys": "Cmd+R or Ctrl+R"
                     },
                     {
                       "action": "Insert cells.",
-                      "keys": "Control+Shift+Equal sign ( = )"
+                      "keys": "Ctrl+Shift+Equal sign ( = )"
                     },
                     {
                       "action": "Delete cells.",
-                      "keys": "Cmd+Hyphen (-) or Control+Hyphen (-)"
+                      "keys": "Cmd+Hyphen (-) or Ctrl+Hyphen (-)"
                     },
                     {
                       "action": "Calculate all open workbooks.",
@@ -3873,7 +3881,7 @@
                     },
                     {
                       "action": "Close window.",
-                      "keys": "Cmd+W or Control+W"
+                      "keys": "Cmd+W or Ctrl+W"
                     },
                     {
                       "action": "Quit Excel.",
@@ -3881,19 +3889,19 @@
                     },
                     {
                       "action": "Display the Go To dialog box.",
-                      "keys": "Control+G or F5"
+                      "keys": "Ctrl+G or F5"
                     },
                     {
                       "action": "Display the Format Cells dialog box.",
-                      "keys": "Cmd+1 or Control+1"
+                      "keys": "Cmd+1 or Ctrl+1"
                     },
                     {
                       "action": "Display the Replace dialog box.",
-                      "keys": "Control+H or Cmd+Shift+H"
+                      "keys": "Ctrl+H or Cmd+Shift+H"
                     },
                     {
                       "action": "Use Paste Special.",
-                      "keys": "Cmd+Control+V or Control+Option+V or Cmd+Option+V"
+                      "keys": "Cmd+Ctrl+V or Ctrl+Option+V or Cmd+Option+V"
                     },
                     {
                       "action": "Apply underline formatting.",
@@ -3901,11 +3909,11 @@
                     },
                     {
                       "action": "Apply italic formatting.",
-                      "keys": "Cmd+I or Control+I"
+                      "keys": "Cmd+I or Ctrl+I"
                     },
                     {
                       "action": "Open a new blank workbook.",
-                      "keys": "Cmd+N or Control+N"
+                      "keys": "Cmd+N or Ctrl+N"
                     },
                     {
                       "action": "Create a new workbook from template.",
@@ -3925,7 +3933,7 @@
                     },
                     {
                       "action": "Add or remove a filter.",
-                      "keys": "Cmd+Shift+F or Control+Shift+L"
+                      "keys": "Cmd+Shift+F or Ctrl+Shift+L"
                     },
                     {
                       "action": "Minimize or maximize the ribbon tabs.",
@@ -3933,7 +3941,7 @@
                     },
                     {
                       "action": "Display the Open dialog box.",
-                      "keys": "Cmd+O or Control+O"
+                      "keys": "Cmd+O or Ctrl+O"
                     },
                     {
                       "action": "Check spelling.",
@@ -3965,7 +3973,7 @@
                     },
                     {
                       "action": "Print preview.",
-                      "keys": "Cmd+P or Control+P"
+                      "keys": "Cmd+P or Ctrl+P"
                     }
                   ]
                 },
@@ -3982,7 +3990,7 @@
                     },
                     {
                       "action": "Switch to full screen view.",
-                      "keys": "Cmd+Control+F"
+                      "keys": "Cmd+Ctrl+F"
                     },
                     {
                       "action": "Switch to the next application.",
@@ -4002,11 +4010,11 @@
                     },
                     {
                       "action": "Minimize the active window.",
-                      "keys": "Control+F9"
+                      "keys": "Ctrl+F9"
                     },
                     {
                       "action": "Maximize or restore the active window.",
-                      "keys": "Control+F10 or Cmd+F10"
+                      "keys": "Ctrl+F10 or Cmd+F10"
                     },
                     {
                       "action": "Hide Excel.",
@@ -4051,11 +4059,11 @@
                     },
                     {
                       "action": "Move to the beginning of the sheet.",
-                      "keys": "Control+Home On a MacBook, Control+Fn+Left arrow key"
+                      "keys": "Ctrl+Home On a MacBook, Ctrl+Fn+Left arrow key"
                     },
                     {
                       "action": "Move to the last cell in use on the sheet.",
-                      "keys": "Control+End On a MacBook, Control+Fn+Right arrow key"
+                      "keys": "Ctrl+End On a MacBook, Ctrl+Fn+Right arrow key"
                     },
                     {
                       "action": "Move down one screen.",
@@ -4075,23 +4083,23 @@
                     },
                     {
                       "action": "Move to the next sheet in the workbook.",
-                      "keys": "Control+Page down or Option+Right arrow key"
+                      "keys": "Ctrl+Page down or Option+Right arrow key"
                     },
                     {
                       "action": "Move to the previous sheet in the workbook.",
-                      "keys": "Control+Page down or Option+Left arrow key"
+                      "keys": "Ctrl+Page down or Option+Left arrow key"
                     },
                     {
                       "action": "Scroll to display the active cell.",
-                      "keys": "Control+Delete"
+                      "keys": "Ctrl+Delete"
                     },
                     {
                       "action": "Display the Go To dialog box.",
-                      "keys": "Control+G"
+                      "keys": "Ctrl+G"
                     },
                     {
                       "action": "Display the Find dialog box.",
-                      "keys": "Control+F or Shift+F5"
+                      "keys": "Ctrl+F or Shift+F5"
                     },
                     {
                       "action": "Access search (when in a cell or when a cell is selected).",
@@ -4120,11 +4128,11 @@
                     },
                     {
                       "action": "Start a new line in the same cell.",
-                      "keys": "Option+Return or Control+Option+Return"
+                      "keys": "Option+Return or Ctrl+Option+Return"
                     },
                     {
                       "action": "Fill the selected cell range with the text that you type.",
-                      "keys": "Cmd+Return or Control+Return"
+                      "keys": "Cmd+Return or Ctrl+Return"
                     },
                     {
                       "action": "Complete a cell entry and move up in the selection.",
@@ -4168,15 +4176,15 @@
                     },
                     {
                       "action": "Fill down.",
-                      "keys": "Control+D or Cmd+D"
+                      "keys": "Ctrl+D or Cmd+D"
                     },
                     {
                       "action": "Fill to the right.",
-                      "keys": "Control+R or Cmd+R"
+                      "keys": "Ctrl+R or Cmd+R"
                     },
                     {
                       "action": "Define a name.",
-                      "keys": "Control+L"
+                      "keys": "Ctrl+L"
                     }
                   ]
                 },
@@ -4185,7 +4193,7 @@
                   "shortcuts": [
                     {
                       "action": "Turn on or off tooltips for checking formulas directly in the formula bar.",
-                      "keys": "Control+Option+P"
+                      "keys": "Ctrl+Option+P"
                     },
                     {
                       "action": "Edit the selected cell.",
@@ -4193,7 +4201,7 @@
                     },
                     {
                       "action": "Expand or collapse the formula bar.",
-                      "keys": "Control+Shift+U"
+                      "keys": "Ctrl+Shift+U"
                     },
                     {
                       "action": "Complete a cell entry.",
@@ -4201,7 +4209,7 @@
                     },
                     {
                       "action": "Enter a formula as an array formula.",
-                      "keys": "Shift+Cmd+Return or Control+Shift+Return"
+                      "keys": "Shift+Cmd+Return or Ctrl+Shift+Return"
                     },
                     {
                       "action": "Cancel an entry in the cell or formula bar.",
@@ -4209,15 +4217,15 @@
                     },
                     {
                       "action": "Display the Formula Builder after you type a valid function name in a formula",
-                      "keys": "Control+A"
+                      "keys": "Ctrl+A"
                     },
                     {
                       "action": "Insert a hyperlink.",
-                      "keys": "Cmd+K or Control+K"
+                      "keys": "Cmd+K or Ctrl+K"
                     },
                     {
                       "action": "Edit the active cell and position the insertion point at the end of the line.",
-                      "keys": "Control+U"
+                      "keys": "Ctrl+U"
                     },
                     {
                       "action": "Open the Formula Builder.",
@@ -4241,7 +4249,7 @@
                     },
                     {
                       "action": "Enter the date.",
-                      "keys": "Control+Semicolon (;)"
+                      "keys": "Ctrl+Semicolon (;)"
                     },
                     {
                       "action": "Enter the time.",
@@ -4249,15 +4257,15 @@
                     },
                     {
                       "action": "Copy the value from the cell above the active cell into the cell or the formula bar.",
-                      "keys": "Control+Shift+Inch mark/Straight double quote (\")"
+                      "keys": "Ctrl+Shift+Inch mark/Straight double quote (\")"
                     },
                     {
                       "action": "Alternate between displaying cell values and displaying cell formulas.",
-                      "keys": "Control+Grave accent (`)"
+                      "keys": "Ctrl+Grave accent (`)"
                     },
                     {
                       "action": "Copy a formula from the cell above the active cell into the cell or the formula bar.",
-                      "keys": "Control+Apostrophe (')"
+                      "keys": "Ctrl+Apostrophe (')"
                     },
                     {
                       "action": "Display the AutoComplete list.",
@@ -4265,19 +4273,19 @@
                     },
                     {
                       "action": "Define a name.",
-                      "keys": "Control+L"
+                      "keys": "Ctrl+L"
                     },
                     {
                       "action": "Open the Smart Lookup pane.",
-                      "keys": "Control+Option+Cmd+L"
+                      "keys": "Ctrl+Option+Cmd+L"
                     },
                     {
                       "action": "Calculate all worksheets in all open workbooks.",
-                      "keys": "Control+Option+F9"
+                      "keys": "Ctrl+Option+F9"
                     },
                     {
                       "action": "Check dependent formulas, and then calculate all cells in all open workbooks.",
-                      "keys": "Control+Option+Shift+F9"
+                      "keys": "Ctrl+Option+Shift+F9"
                     }
                   ]
                 },
@@ -4290,15 +4298,15 @@
                     },
                     {
                       "action": "Create a table.",
-                      "keys": "Cmd+T or Control+T"
+                      "keys": "Cmd+T or Ctrl+T"
                     },
                     {
                       "action": "Insert a line break in a cell.",
-                      "keys": "Cmd+Option+Return or Control+Option+Return"
+                      "keys": "Cmd+Option+Return or Ctrl+Option+Return"
                     },
                     {
                       "action": "Insert special characters like symbols, including emoji.",
-                      "keys": "Control+Cmd+Spacebar"
+                      "keys": "Ctrl+Cmd+Spacebar"
                     },
                     {
                       "action": "Increase font size.",
@@ -4326,31 +4334,31 @@
                     },
                     {
                       "action": "Apply the general number format.",
-                      "keys": "Control+Shift+Tilde (~)"
+                      "keys": "Ctrl+Shift+Tilde (~)"
                     },
                     {
                       "action": "Apply the currency format with two decimal places (negative numbers appear in red with parentheses).",
-                      "keys": "Control+Shift+Dollar sign ($)"
+                      "keys": "Ctrl+Shift+Dollar sign ($)"
                     },
                     {
                       "action": "Apply the percentage format with no decimal places.",
-                      "keys": "Control+Shift+Percent sign (%)"
+                      "keys": "Ctrl+Shift+Percent sign (%)"
                     },
                     {
                       "action": "Apply the exponential number format with two decimal places.",
-                      "keys": "Control+Shift+Caret (^)"
+                      "keys": "Ctrl+Shift+Caret (^)"
                     },
                     {
                       "action": "Apply the date format with the day, month, and year.",
-                      "keys": "Control+Shift+Number sign (#)"
+                      "keys": "Ctrl+Shift+Number sign (#)"
                     },
                     {
                       "action": "Apply the time format with the hour and minute, and indicate AM or PM.",
-                      "keys": "Control+Shift+At symbol (@)"
+                      "keys": "Ctrl+Shift+At symbol (@)"
                     },
                     {
                       "action": "Apply the number format with two decimal places, thousands separator, and minus sign (-) for negative values.",
-                      "keys": "Control+Shift+Exclamation point (!)"
+                      "keys": "Ctrl+Shift+Exclamation point (!)"
                     },
                     {
                       "action": "Apply the outline border around the selected cells.",
@@ -4394,23 +4402,23 @@
                     },
                     {
                       "action": "Hide a column.",
-                      "keys": "Cmd+Right parenthesis ()) or Control+Right parenthesis ())"
+                      "keys": "Cmd+Right parenthesis ()) or Ctrl+Right parenthesis ())"
                     },
                     {
                       "action": "Unhide a column.",
-                      "keys": "Shift+Cmd+Right parenthesis ()) or Control+Shift+Right parenthesis ())"
+                      "keys": "Shift+Cmd+Right parenthesis ()) or Ctrl+Shift+Right parenthesis ())"
                     },
                     {
                       "action": "Hide a row.",
-                      "keys": "Cmd+Left parenthesis (() or Control+Left parenthesis (()"
+                      "keys": "Cmd+Left parenthesis (() or Ctrl+Left parenthesis (()"
                     },
                     {
                       "action": "Unhide a row.",
-                      "keys": "Shift+Cmd+Left parenthesis (() or Control+Shift+Left parenthesis (()"
+                      "keys": "Shift+Cmd+Left parenthesis (() or Ctrl+Shift+Left parenthesis (()"
                     },
                     {
                       "action": "Edit the active cell.",
-                      "keys": "Control+U"
+                      "keys": "Ctrl+U"
                     },
                     {
                       "action": "Cancel an entry in the cell or the formula bar.",
@@ -4426,15 +4434,15 @@
                     },
                     {
                       "action": "Give selected cells the current cell's entry.",
-                      "keys": "Cmd+Return or Control+Return"
+                      "keys": "Cmd+Return or Ctrl+Return"
                     },
                     {
                       "action": "Enter a formula as an array formula.",
-                      "keys": "Shift+Cmd+Return or Control+Shift+Return"
+                      "keys": "Shift+Cmd+Return or Ctrl+Shift+Return"
                     },
                     {
                       "action": "Display the Formula Builder after you type a valid function name in a formula.",
-                      "keys": "Control+A"
+                      "keys": "Ctrl+A"
                     }
                   ]
                 },
@@ -4455,15 +4463,15 @@
                     },
                     {
                       "action": "Extend the selection to the beginning of the sheet.",
-                      "keys": "Control+Shift+Home On a MacBook, Control+Shift+Fn+Left arrow key"
+                      "keys": "Ctrl+Shift+Home On a MacBook, Ctrl+Shift+Fn+Left arrow key"
                     },
                     {
                       "action": "Extend the selection to the last cell used on the sheet (lower-right corner).",
-                      "keys": "Control+Shift+End On a MacBook, Control+Shift+Fn+Right arrow key"
+                      "keys": "Ctrl+Shift+End On a MacBook, Ctrl+Shift+Fn+Right arrow key"
                     },
                     {
                       "action": "Select the entire column. *",
-                      "keys": "Control+Spacebar"
+                      "keys": "Ctrl+Spacebar"
                     },
                     {
                       "action": "Select the entire row.",
@@ -4487,7 +4495,7 @@
                     },
                     {
                       "action": "Alternate between hiding objects, displaying objects, and displaying placeholders for objects.",
-                      "keys": "Control+6"
+                      "keys": "Ctrl+6"
                     },
                     {
                       "action": "Add another range of cells to the selection.",
@@ -4495,27 +4503,27 @@
                     },
                     {
                       "action": "Select the current array, which is the array that the active cell belongs to.",
-                      "keys": "Control+Forward slash (/)"
+                      "keys": "Ctrl+Forward slash (/)"
                     },
                     {
                       "action": "Select cells in a row that don't match the value in the active cell in that row. You must select the row starting with the active cell.",
-                      "keys": "Control+Backward slash (\\)"
+                      "keys": "Ctrl+Backward slash (\\)"
                     },
                     {
                       "action": "Select only cells that are directly referred to by formulas in the selection.",
-                      "keys": "Control+Shift+Left bracket ([)"
+                      "keys": "Ctrl+Shift+Left bracket ([)"
                     },
                     {
                       "action": "Select all cells that are directly or indirectly referred to by formulas in the selection.",
-                      "keys": "Control+Shift+Left brace ({)"
+                      "keys": "Ctrl+Shift+Left brace ({)"
                     },
                     {
                       "action": "Select only cells with formulas that refer directly to the active cell.",
-                      "keys": "Control+Right bracket (])"
+                      "keys": "Ctrl+Right bracket (])"
                     },
                     {
                       "action": "Select all cells with formulas that refer directly or indirectly to the active cell.",
-                      "keys": "Control+Shift+Right brace (})"
+                      "keys": "Ctrl+Shift+Right brace (})"
                     }
                   ]
                 },
@@ -4524,19 +4532,19 @@
                   "shortcuts": [
                     {
                       "action": "Copy a selection.",
-                      "keys": "Cmd+C or Control+V"
+                      "keys": "Cmd+C or Ctrl+V"
                     },
                     {
                       "action": "Paste a selection.",
-                      "keys": "Cmd+V or Control+V"
+                      "keys": "Cmd+V or Ctrl+V"
                     },
                     {
                       "action": "Cut a selection.",
-                      "keys": "Cmd+X or Control+X"
+                      "keys": "Cmd+X or Ctrl+X"
                     },
                     {
                       "action": "Delete the selection.",
-                      "keys": "Control+Hyphen"
+                      "keys": "Ctrl+Hyphen"
                     },
                     {
                       "action": "Undo the last action.",
@@ -4544,19 +4552,19 @@
                     },
                     {
                       "action": "Hide a column.",
-                      "keys": "Cmd+Right parenthesis ()) or Control+Right parenthesis ())"
+                      "keys": "Cmd+Right parenthesis ()) or Ctrl+Right parenthesis ())"
                     },
                     {
                       "action": "Unhide a column.",
-                      "keys": "Cmd+Shift+Right parenthesis ()) or Control+Shift+Right parenthesis ())"
+                      "keys": "Cmd+Shift+Right parenthesis ()) or Ctrl+Shift+Right parenthesis ())"
                     },
                     {
                       "action": "Hide a row.",
-                      "keys": "Cmd+Left parenthesis (() or Control+Left parenthesis (()"
+                      "keys": "Cmd+Left parenthesis (() or Ctrl+Left parenthesis (()"
                     },
                     {
                       "action": "Unhide a row.",
-                      "keys": "Cmd+Shift+Left parenthesis (() or Control+Shift+Left parenthesis (()"
+                      "keys": "Cmd+Shift+Left parenthesis (() or Ctrl+Shift+Left parenthesis (()"
                     },
                     {
                       "action": "Move selected rows, columns, or cells.",
@@ -4580,7 +4588,7 @@
                     },
                     {
                       "action": "Move clockwise to the next corner of the selection.",
-                      "keys": "Control+Period (.)"
+                      "keys": "Ctrl+Period (.)"
                     },
                     {
                       "action": "Group selected cells.",
@@ -4614,7 +4622,7 @@
                     },
                     {
                       "action": "Add or remove a filter.",
-                      "keys": "Cmd+Shift+F or Control+Shift+L"
+                      "keys": "Cmd+Shift+F or Ctrl+Shift+L"
                     },
                     {
                       "action": "Display the Filter list or PivotTable page field pop-up menu for the selected cell.",
@@ -4627,23 +4635,23 @@
                   "shortcuts": [
                     {
                       "action": "Display or hide outline symbols.",
-                      "keys": "Control+8"
+                      "keys": "Ctrl+8"
                     },
                     {
                       "action": "Hide selected rows.",
-                      "keys": "Control+9"
+                      "keys": "Ctrl+9"
                     },
                     {
                       "action": "Unhide selected rows.",
-                      "keys": "Control+Shift+Left parenthesis (()"
+                      "keys": "Ctrl+Shift+Left parenthesis (()"
                     },
                     {
                       "action": "Hide selected columns.",
-                      "keys": "Control+Zero (0)"
+                      "keys": "Ctrl+Zero (0)"
                     },
                     {
                       "action": "Unhide selected columns.",
-                      "keys": "Control+Shift+Right parenthesis ())"
+                      "keys": "Ctrl+Shift+Right parenthesis ())"
                     }
                   ]
                 },
@@ -4692,7 +4700,7 @@
                     },
                     {
                       "action": "Move to the Search Sheet dialog box.",
-                      "keys": "Control+F5"
+                      "keys": "Ctrl+F5"
                     },
                     {
                       "action": "Switch focus between the worksheet, ribbon, task pane, and status bar.",
@@ -4704,7 +4712,7 @@
                     },
                     {
                       "action": "Open the thesaurus.",
-                      "keys": "Shift+F7 or Control+Option+Cmd+R"
+                      "keys": "Shift+F7 or Ctrl+Option+Cmd+R"
                     },
                     {
                       "action": "Extend the selection.",
@@ -4728,7 +4736,7 @@
                     },
                     {
                       "action": "Minimize the active window.",
-                      "keys": "Control+F9"
+                      "keys": "Ctrl+F9"
                     },
                     {
                       "action": "Display the context menu, or \"right click\" menu.",
@@ -4740,7 +4748,7 @@
                     },
                     {
                       "action": "Maximize or restore the active window.",
-                      "keys": "Control+F10 or Cmd+F10"
+                      "keys": "Ctrl+F10 or Cmd+F10"
                     },
                     {
                       "action": "Insert a new chart sheet.*",
@@ -4786,7 +4794,7 @@
                   "shortcuts": [
                     {
                       "action": "Toggle Drawing mode on and off.",
-                      "keys": "Cmd+Control+Z"
+                      "keys": "Cmd+Ctrl+Z"
                     }
                   ]
                 }
@@ -4837,15 +4845,15 @@
                     },
                     {
                       "action": "Hide row(s).",
-                      "keys": "Control+9"
+                      "keys": "Ctrl+9"
                     },
                     {
                       "action": "Unhide column(s).",
-                      "keys": "Shift+Command+0 or Shift+Control+Right parenthesis ())"
+                      "keys": "Shift+Command+0 or Shift+Ctrl+Right parenthesis ())"
                     },
                     {
                       "action": "Unhide row(s).",
-                      "keys": "Shift+Control+9 or Shift+Control+Left parenthesis (()"
+                      "keys": "Shift+Ctrl+9 or Shift+Ctrl+Left parenthesis (()"
                     }
                   ]
                 },
@@ -4902,7 +4910,7 @@
                     },
                     {
                       "action": "Insert a line break within a cell.",
-                      "keys": "Command+Option+Return or Control+Option+Return"
+                      "keys": "Command+Option+Return or Ctrl+Option+Return"
                     },
                     {
                       "action": "Move the cursor to the beginning of the current line within a cell.",
@@ -4969,47 +4977,47 @@
                   "shortcuts": [
                     {
                       "action": "Save a worksheet.",
-                      "keys": "Control+S"
+                      "keys": "Ctrl+S"
                     },
                     {
                       "action": "Copy a selection.",
-                      "keys": "Control+C"
+                      "keys": "Ctrl+C"
                     },
                     {
                       "action": "Paste a selection.",
-                      "keys": "Control+V"
+                      "keys": "Ctrl+V"
                     },
                     {
                       "action": "Cut a selection.",
-                      "keys": "Control+X"
+                      "keys": "Ctrl+X"
                     },
                     {
                       "action": "Undo an action.",
-                      "keys": "Control+Z"
+                      "keys": "Ctrl+Z"
                     },
                     {
                       "action": "Redo an action.",
-                      "keys": "Control+Y"
+                      "keys": "Ctrl+Y"
                     },
                     {
                       "action": "Apply bold formatting.",
-                      "keys": "Control+B"
+                      "keys": "Ctrl+B"
                     },
                     {
                       "action": "Apply italic formatting.",
-                      "keys": "Control+I"
+                      "keys": "Ctrl+I"
                     },
                     {
                       "action": "Apply underline formatting.",
-                      "keys": "Control+U"
+                      "keys": "Ctrl+U"
                     },
                     {
                       "action": "Select all.",
-                      "keys": "Control+A"
+                      "keys": "Ctrl+A"
                     },
                     {
                       "action": "Find.",
-                      "keys": "Control+F"
+                      "keys": "Ctrl+F"
                     },
                     {
                       "action": "Insert a line break within a cell.",
@@ -5024,7 +5032,12 @@
               "sections": [
                 {
                   "title": "General",
-                  "shortcuts": []
+                  "shortcuts": [
+                    {
+                      "action": "Ctrl+F6",
+                      "keys": "When you use Excel for the web, we recommend that you use Microsoft Edge as your web browser. Because Excel for the web runs in your web browser, the keyboard shortcuts are different from those in the desktop program. For example, you'll use instead of F6 for jumping in and out of the commands. Also, common shortcuts like F1 (Help) and Ctrl+O (Open) apply to the web browser - not Excel for the web."
+                    }
+                  ]
                 },
                 {
                   "title": "In this article",
@@ -5034,8 +5047,8 @@
                   "title": "Quick tips for using keyboard shortcuts with Excel for the web",
                   "shortcuts": [
                     {
-                      "action": "Search",
-                      "keys": "To find any command quickly, press Alt+Windows logo key, Q to jump to the or Tell Me text field. In Search or Tell Me, type a word or the name of a command you want (available only in Editing mode). Search or Tell Me searches for related options and provides a list. Use the Up and Down arrow keys to select a command, and then press Enter. Depending on the version of Microsoft 365 you are using, the Search text field at the top of the app window might be called Tell Me instead. Both offer a largely similar experience, but some options and search results can vary."
+                      "action": "Alt+Windows",
+                      "keys": "To find any command quickly, press WindowsLogo icon key, Q to jump to the Search or Tell Me text field. In Search or Tell Me, type a word or the name of a command you want (available only in Editing mode). Search or Tell Me searches for related options and provides a list. Use the Up and Down arrow keys to select a command, and then press Enter. Depending on the version of Microsoft 365 you are using, the Search text field at the top of the app window might be called Tell Me instead. Both offer a largely similar experience, but some options and search results can vary."
                     },
                     {
                       "action": "Go To",
@@ -5132,8 +5145,16 @@
                   "title": "Access keys: Shortcuts for using the ribbon",
                   "shortcuts": [
                     {
-                      "action": "Home",
-                      "keys": "To get to the ribbon, press Alt+Windows logo key, or press Ctrl+F6 until you reach the tab."
+                      "action": "Alt+Windows",
+                      "keys": "To get to the ribbon, press WindowsLogo icon key, or press Ctrl+F6 until you reach the Home tab."
+                    },
+                    {
+                      "action": "Tab",
+                      "keys": "To move between tabs on the ribbon, press the key."
+                    },
+                    {
+                      "action": "Ctrl+F1",
+                      "keys": "To hide the ribbon so you have more room to work, press . To display the ribbon again, press Ctrl+F1."
                     }
                   ]
                 },
@@ -5142,7 +5163,7 @@
                   "shortcuts": [
                     {
                       "action": "Go to the Search or Tell Me field on the ribbon and type a search term.",
-                      "keys": "Alt+Windows logo key, Q"
+                      "keys": "Alt+Windows WindowsLogo icon key, Q"
                     },
                     {
                       "action": "Open the File menu.",
@@ -5150,7 +5171,7 @@
                     },
                     {
                       "action": "Open the Home tab and format text and numbers or use other tools such as Sort & Filter.",
-                      "keys": "Alt+Windows logo key, H"
+                      "keys": "Alt+Windows WindowsLogo icon key, H"
                     },
                     {
                       "action": "Open the Insert tab and insert a function, table, chart, hyperlink, or threaded comment.",
@@ -5158,7 +5179,7 @@
                     },
                     {
                       "action": "Open the Data tab and refresh connections or use data tools.",
-                      "keys": "Alt+Windows logo key, A"
+                      "keys": "Alt+Windows WindowsLogo icon key, A"
                     },
                     {
                       "action": "Open the Review tab and use the Accessibility Checker or work with threaded comments and notes.",
@@ -5166,7 +5187,7 @@
                     },
                     {
                       "action": "Open the View tab to choose a view, freeze rows or columns in your worksheet, or show gridlines and headers.",
-                      "keys": "Alt+Windows logo key, W"
+                      "keys": "Alt+Windows WindowsLogo icon key, W"
                     }
                   ]
                 },
@@ -5200,7 +5221,7 @@
                   "shortcuts": [
                     {
                       "action": "Insert a row above the current row.",
-                      "keys": "Alt+Windows logo key, H, I, R"
+                      "keys": "Alt+Windows WindowsLogo icon key, H, I, R"
                     },
                     {
                       "action": "Insert a column to the left of the current column.",
@@ -5252,7 +5273,7 @@
                     },
                     {
                       "action": "Apply a filter.",
-                      "keys": "Alt+Windows logo key, A, T"
+                      "keys": "Alt+Windows WindowsLogo icon key, A, T"
                     },
                     {
                       "action": "Re-apply a filter.",
@@ -5637,7 +5658,7 @@
                   ]
                 },
                 {
-                  "title": "Accessibility Shortcuts Menu (Alt+Shift+A)",
+                  "title": "Accessibility Shortcuts Menu",
                   "shortcuts": [
                     {
                       "action": "Cycle between landmark regions.",

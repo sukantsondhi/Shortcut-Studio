@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-05-11T08:52:34.947Z",
+  "generatedAt": "2026-05-18T09:33:19.876Z",
   "locale": "en-us",
   "stats": {
     "appCount": 6,
     "sourceCount": 7,
-    "platformCount": 25,
-    "shortcutCount": 2900
+    "platformCount": 26,
+    "shortcutCount": 3203
   },
   "apps": [
     {
@@ -18,7 +18,7 @@
           "url": "https://support.microsoft.com/en-us/office/keyboard-shortcuts-in-word-95ef89dd-7142-4b50-afb2-f762f663ceb2",
           "platforms": [
             {
-              "name": "Windows",
+              "name": "tabpanel_1_windows",
               "sections": [
                 {
                   "title": "General",
@@ -236,7 +236,7 @@
                     },
                     {
                       "action": "Open the context menu.",
-                      "keys": "Shift+F10 Or, on a Windows keyboard, the Windows Menu key (between the right Alt and right Ctrl keys)"
+                      "keys": "Shift+F10Or, on a Windows keyboard, the Windows Menu key (between the right Alt and right Ctrl keys)"
                     },
                     {
                       "action": "Move to the submenu when a main menu is open or selected.",
@@ -432,7 +432,7 @@
                   "shortcuts": [
                     {
                       "action": "Start extending the selection.",
-                      "keys": "F8 In the extend selection mode, clicking a location in the document extends the current selection to that location."
+                      "keys": "F8In the extend selection mode, clicking a location in the document extends the current selection to that location."
                     },
                     {
                       "action": "Select the nearest character to the left or right.",
@@ -1223,39 +1223,39 @@
                   "title": "Use function key shortcuts",
                   "shortcuts": [
                     {
-                      "action": "F1 alone: displays the Word help task pane. Shift+F1: displays or hides context-sensitive help or the Reveal Formatting task pane. Ctrl+F1: displays or hides the ribbon. Alt+F1: moves to the next field. Alt+Shift+F1: moves to the previous field.",
+                      "action": "F1 alone: displays the Word help task pane.Shift+F1: displays or hides context-sensitive help or the Reveal Formatting task pane.Ctrl+F1: displays or hides the ribbon.Alt+F1: moves to the next field.Alt+Shift+F1: moves to the previous field.",
                       "keys": "F1"
                     },
                     {
-                      "action": "Shift+F3: switches the selected text between upper case, lower case, and title case. Ctrl+F3: cuts the selected content to the Spike. You can cut multiple texts and graphics to the Spike, and paste them as a group to another location. Ctrl+Shift+F3: pastes the contents of the Spike. Alt+F3: creates a new Building Block.",
+                      "action": "Shift+F3: switches the selected text between upper case, lower case, and title case.Ctrl+F3: cuts the selected content to the Spike. You can cut multiple texts and graphics to the Spike, and paste them as a group to another location.Ctrl+Shift+F3: pastes the contents of the Spike.Alt+F3: creates a new Building Block.",
                       "keys": "F3"
                     },
                     {
-                      "action": "F4 alone: repeats the last command or action, if possible. Shift+F4: repeats the last Find or Go To action. Ctrl+F4: closes the current document. Alt+F4: closes Word.",
+                      "action": "F4 alone: repeats the last command or action, if possible.Shift+F4: repeats the last Find or Go To action.Ctrl+F4: closes the current document.Alt+F4: closes Word.",
                       "keys": "F4"
                     },
                     {
-                      "action": "F5 alone: displays the Go To dialog box. Shift+F5: moves the cursor to the last change. Ctrl+Shift+F5: displays the Bookmark dialog box. Alt+F5: restores the document window size.",
+                      "action": "F5 alone: displays the Go To dialog box.Shift+F5: moves the cursor to the last change.Ctrl+Shift+F5: displays the Bookmark dialog box.Alt+F5: restores the document window size.",
                       "keys": "F5"
                     },
                     {
-                      "action": "F6 alone: switch between the document, task pane, status bar, and ribbon. In a document that has been split, F6 includes the split panes when switching between panes and the task pane. Shift+F6: switches between the document, ribbon, status bar, and task pane. Ctrl+F6: switches to the next document window when more than one document is open. Ctrl+Shift+F6: switches to the previous document window when more than one document is open. Alt+F6: moves from an open dialog box back to the document, for dialog boxes that support this behavior.",
+                      "action": "F6 alone: switch between the document, task pane, status bar, and ribbon. In a document that has been split, F6 includes the split panes when switching between panes and the task pane.Shift+F6: switches between the document, ribbon, status bar, and task pane.Ctrl+F6: switches to the next document window when more than one document is open.Ctrl+Shift+F6: switches to the previous document window when more than one document is open.Alt+F6: moves from an open dialog box back to the document, for dialog boxes that support this behavior.",
                       "keys": "F6"
                     },
                     {
-                      "action": "F7 alone: displays the Editor task pane to check spelling and grammar in the document or the selected text. Shift+F7: displays the Thesaurus task pane. Ctrl+Shift+F7: updates the linked information in a Word source document. Alt+F7: finds the next spelling or grammatical error. Alt+Shift+F7: displays the Translator task pane.",
+                      "action": "F7 alone: displays the Editor task pane to check spelling and grammar in the document or the selected text.Shift+F7: displays the Thesaurus task pane.Ctrl+Shift+F7: updates the linked information in a Word source document.Alt+F7: finds the next spelling or grammatical error.Alt+Shift+F7: displays the Translator task pane.",
                       "keys": "F7"
                     },
                     {
-                      "action": "F9 alone: updates the selected fields. Shift+F9: switches between a field code and its result. Ctrl+F9: inserts an empty field. Ctrl+Shift+F9: unlinks the current field. Alt+F9: switches between all field codes and their results. Alt+Shift+F9: runs GOTOBUTTON or MACROBUTTON from a field displaying field results.",
+                      "action": "F9 alone: updates the selected fields.Shift+F9: switches between a field code and its result.Ctrl+F9: inserts an empty field.Ctrl+Shift+F9: unlinks the current field.Alt+F9: switches between all field codes and their results.Alt+Shift+F9: runs GOTOBUTTON or MACROBUTTON from a field displaying field results.",
                       "keys": "F9"
                     },
                     {
-                      "action": "F11 alone: moves to the next field. Shift+F11: moves to the previous field. Ctrl+F11: locks the current field. Ctrl+Shift+F11: unlocks the current field. Alt+F11: opens the Microsoft Visual Basic for Applications editor, in which you can create a macro using Visual Basic for Applications (VBA).",
+                      "action": "F11 alone: moves to the next field.Shift+F11: moves to the previous field.Ctrl+F11: locks the current field.Ctrl+Shift+F11: unlocks the current field.Alt+F11: opens the Microsoft Visual Basic for Applications editor, in which you can create a macro using Visual Basic for Applications (VBA).",
                       "keys": "F11"
                     },
                     {
-                      "action": "F12 alone: displays the Save As dialog box. Shift+F12: saves the document. Ctrl+F12: displays the Open dialog box. Ctrl+Shift+F12: displays the Print tab in the Backstage view. Alt+Shift+F12: selects the Table of Contents button in the Table of Contents container when the container is active.",
+                      "action": "F12 alone: displays the Save As dialog box.Shift+F12: saves the document.Ctrl+F12: displays the Open dialog box.Ctrl+Shift+F12: displays the Print tab in the Backstage view.Alt+Shift+F12: selects the Table of Contents button in the Table of Contents container when the container is active.",
                       "keys": "F12"
                     },
                     {
@@ -1359,7 +1359,7 @@
               ]
             },
             {
-              "name": "macOS",
+              "name": "tabpanel_1_macos",
               "sections": [
                 {
                   "title": "General",
@@ -1509,27 +1509,27 @@
                     },
                     {
                       "action": "Move the cursor to the beginning of the current line.",
-                      "keys": "Command+Left arrow Home"
+                      "keys": "Command+Left arrowHome"
                     },
                     {
                       "action": "Move the cursor to the end of the current line.",
-                      "keys": "Command+Right arrow key End"
+                      "keys": "Command+Right arrow keyEnd"
                     },
                     {
                       "action": "Move the cursor to the top of the previous page.",
-                      "keys": "Command+Page up On a MacBook, press Command+Fn+Up arrow key"
+                      "keys": "Command+Page upOn a MacBook, press Command+Fn+Up arrow key"
                     },
                     {
                       "action": "Move the cursor to the top of the next page.",
-                      "keys": "Command+Page down On a MacBook, press Command+Fn+Down arrow key"
+                      "keys": "Command+Page downOn a MacBook, press Command+Fn+Down arrow key"
                     },
                     {
                       "action": "Move the cursor to the beginning of the document.",
-                      "keys": "Command+Home On a MacBook, press Command+Fn+Left arrow key"
+                      "keys": "Command+HomeOn a MacBook, press Command+Fn+Left arrow key"
                     },
                     {
                       "action": "Move the cursor to the end of the document.",
-                      "keys": "Command+End On a MacBook, press Command+Fn+Right arrow key"
+                      "keys": "Command+EndOn a MacBook, press Command+Fn+Right arrow key"
                     },
                     {
                       "action": "Move the cursor to the previous insertion point.",
@@ -1566,11 +1566,11 @@
                     },
                     {
                       "action": "Select from the current position to the beginning of the current line.",
-                      "keys": "Cmd Command+Shift+Left arrow key Shift+Home"
+                      "keys": "Cmd Command+Shift+Left arrow keyShift+Home"
                     },
                     {
                       "action": "Select from the current position to the end of the current line.",
-                      "keys": "Cmd Command+Shift+Right arrow key Shift+End"
+                      "keys": "Cmd Command+Shift+Right arrow keyShift+End"
                     },
                     {
                       "action": "Select from the current position to the beginning of the current paragraph.",
@@ -1611,7 +1611,7 @@
                   "shortcuts": [
                     {
                       "action": "Start extending the selection. *",
-                      "keys": "F8 In the extend selection mode, clicking a location in the document extends the current selection to that location."
+                      "keys": "F8In the extend selection mode, clicking a location in the document extends the current selection to that location."
                     },
                     {
                       "action": "Select the nearest character to the left.",
@@ -1644,15 +1644,15 @@
                   "shortcuts": [
                     {
                       "action": "Cut the selected content to the Clipboard.",
-                      "keys": "Cmd Command+X F2"
+                      "keys": "Cmd Command+XF2"
                     },
                     {
                       "action": "Copy the selected content to the Clipboard.",
-                      "keys": "Cmd Command+C F3"
+                      "keys": "Cmd Command+CF3"
                     },
                     {
                       "action": "Paste the contents of the Clipboard.",
-                      "keys": "Cmd Command+V F4"
+                      "keys": "Cmd Command+VF4"
                     },
                     {
                       "action": "Display the Paste Special dialog box.",
@@ -2100,7 +2100,7 @@
                     },
                     {
                       "action": "Move to the end of a comment.",
-                      "keys": "End (The End key is not available on all keyboards.)"
+                      "keys": "End(The End key is not available on all keyboards.)"
                     },
                     {
                       "action": "Move to the beginning of the list of comments.",
@@ -2175,27 +2175,27 @@
                       "keys": "F1"
                     },
                     {
-                      "action": "F3 alone: copies the selected content to the Clipboard. Shift+F3: switches the selected text between upper case, lower case, and title case. Command +F3: cuts the selected content to the Spike. You can cut multiple texts and graphics to the Spike, and paste them as a group to another location. Command +Shift+F3: pastes the contents of the Spike. Option+F3: creates an AutoText entry.",
+                      "action": "F3 alone: copies the selected content to the Clipboard.Shift+F3: switches the selected text between upper case, lower case, and title case. Command +F3: cuts the selected content to the Spike. You can cut multiple texts and graphics to the Spike, and paste them as a group to another location. Command +Shift+F3: pastes the contents of the Spike.Option+F3: creates an AutoText entry.",
                       "keys": "F3"
                     },
                     {
-                      "action": "F4 alone: pastes the content from the Clipboard. Shift+F4: repeats the last Find or Go To action. Command Shift+F4: repeats the last Find or Go To action.",
+                      "action": "F4 alone: pastes the content from the Clipboard.Shift+F4: repeats the last Find or Go To action. Command Shift+F4: repeats the last Find or Go To action.",
                       "keys": "F4"
                     },
                     {
-                      "action": "F5 alone: displays the Go To dialog box. Shift+F5: moves the cursor to the last change. Command +Shift+F5: displays the Bookmark dialog.",
+                      "action": "F5 alone: displays the Go To dialog box.Shift+F5: moves the cursor to the last change. Command +Shift+F5: displays the Bookmark dialog.",
                       "keys": "F5"
                     },
                     {
-                      "action": "F6 alone: switch between the document, task pane, status bar, and ribbon. In a document that has been split, F6 includes the split panes when switching between panes and the task pane. Shift+F6: switches between the document, ribbon, status bar, and task pane. Command +F6: switches to the next document window when more than one document is open. Command +Shift+F6: switches to the previous document window when more than one document is open.",
+                      "action": "F6 alone: switch between the document, task pane, status bar, and ribbon. In a document that has been split, F6 includes the split panes when switching between panes and the task pane.Shift+F6: switches between the document, ribbon, status bar, and task pane. Command +F6: switches to the next document window when more than one document is open. Command +Shift+F6: switches to the previous document window when more than one document is open.",
                       "keys": "F6"
                     },
                     {
-                      "action": "F7 alone: displays the Spelling and Grammar dialog box. Shift+F7: displays the Thesaurus task pane. Command +Shift+F7: updates the linked information in a Word source document. Option+F7: finds the next spelling or grammatical error. Option+Shift+F7: opens the Dictionary.",
+                      "action": "F7 alone: displays the Spelling and Grammar dialog box.Shift+F7: displays the Thesaurus task pane. Command +Shift+F7: updates the linked information in a Word source document.Option+F7: finds the next spelling or grammatical error.Option+Shift+F7: opens the Dictionary.",
                       "keys": "F7"
                     },
                     {
-                      "action": "F9 alone *: updates the selected fields. Shift+F9 *: switches between a field code and its result. Command +F9: inserts an empty field. Command +Shift+F9: unlinks the current field. Option+F9: switches between all field codes and their results. Option+Shift+F9: runs GOTOBUTTON or MACROBUTTON from a field displaying field results.",
+                      "action": "F9 alone *: updates the selected fields.Shift+F9 *: switches between a field code and its result. Command +F9: inserts an empty field. Command +Shift+F9: unlinks the current field.Option+F9: switches between all field codes and their results.Option+Shift+F9: runs GOTOBUTTON or MACROBUTTON from a field displaying field results.",
                       "keys": "F9"
                     },
                     {
@@ -2203,7 +2203,7 @@
                       "keys": "F10"
                     },
                     {
-                      "action": "F11 alone *: moves to the next field. Shift+F11 *: moves to the previous field. Command +F11: locks the current field. Command +Shift+F11: unlocks the current field. Option+F11: opens the Microsoft Visual Basic for Applications editor, in which you can create a macro using Visual Basic for Applications (VBA).",
+                      "action": "F11 alone *: moves to the next field.Shift+F11 *: moves to the previous field. Command +F11: locks the current field. Command +Shift+F11: unlocks the current field.Option+F11: opens the Microsoft Visual Basic for Applications editor, in which you can create a macro using Visual Basic for Applications (VBA).",
                       "keys": "F11"
                     },
                     {
@@ -2272,7 +2272,7 @@
               ]
             },
             {
-              "name": "Office",
+              "name": "tabpanel_1_office-for-ios",
               "sections": [
                 {
                   "title": "General",
@@ -2424,7 +2424,7 @@
               ]
             },
             {
-              "name": "Office",
+              "name": "tabpanel_1_office-for-android",
               "sections": [
                 {
                   "title": "General",
@@ -2539,7 +2539,7 @@
               ]
             },
             {
-              "name": "Web",
+              "name": "tabpanel_1_web",
               "sections": [
                 {
                   "title": "General",
@@ -2877,7 +2877,7 @@
           "url": "https://support.microsoft.com/en-us/office/keyboard-shortcuts-in-excel-1798d9d5-842a-42b8-9c99-9b7213f0040f",
           "platforms": [
             {
-              "name": "Windows",
+              "name": "tabpanel_1_windows",
               "sections": [
                 {
                   "title": "General",
@@ -2948,7 +2948,7 @@
                     },
                     {
                       "action": "Open the context menu.",
-                      "keys": "Shift+F10 or Windows Menu key"
+                      "keys": "Shift+F10 orWindows Menu key"
                     },
                     {
                       "action": "Add borders.",
@@ -3050,7 +3050,7 @@
                     },
                     {
                       "action": "Open a context menu.",
-                      "keys": "Shift+F10 Or, on a Windows keyboard, the Windows Menu key (usually between the Alt Gr and right Ctrl keys)"
+                      "keys": "Shift+F10Or, on a Windows keyboard, the Windows Menu key (usually between the Alt Gr and right Ctrl keys)"
                     },
                     {
                       "action": "Move to the submenu when a main menu is open or selected.",
@@ -3175,12 +3175,12 @@
                       "keys": "Ctrl+Shift+F or Ctrl+Shift+P"
                     },
                     {
-                      "action": "Insert a note. Open and edit a cell note.",
-                      "keys": "Shift+F2 Shift+F2"
+                      "action": "Insert a note.Open and edit a cell note.",
+                      "keys": "Shift+F2Shift+F2"
                     },
                     {
-                      "action": "Insert a threaded comment. Open and reply to a threaded comment.",
-                      "keys": "Ctrl+Shift+F2 Ctrl+Shift+F2"
+                      "action": "Insert a threaded comment.Open and reply to a threaded comment.",
+                      "keys": "Ctrl+Shift+F2Ctrl+Shift+F2"
                     },
                     {
                       "action": "Open the Insert dialog box to insert blank cells.",
@@ -3632,31 +3632,31 @@
                   "title": "Function keys",
                   "shortcuts": [
                     {
-                      "action": "F1 alone: displays theExcel Help task pane. Ctrl+F1: displays or hides the ribbon. Alt+F1: creates an embedded chart of the data in the current range. Alt+Shift+F1: inserts a new worksheet. Ctrl+Shift+F1: toggles full screen mode",
+                      "action": "F1 alone: displays the Excel Help task pane.Ctrl+F1: displays or hides the ribbon.Alt+F1: creates an embedded chart of the data in the current range.Alt+Shift+F1: inserts a new worksheet.Ctrl+Shift+F1: toggles full screen mode",
                       "keys": "F1"
                     },
                     {
-                      "action": "F3 alone: displays the Paste Name dialog box. Available only if names have been defined in the workbook. Shift+F3: displays the Insert Function dialog box.",
+                      "action": "F3 alone: displays the Paste Name dialog box. Available only if names have been defined in the workbook.Shift+F3: displays the Insert Function dialog box.",
                       "keys": "F3"
                     },
                     {
-                      "action": "F4 alone: repeats the last command or action, if possible. When a cell reference or range is selected in a formula, F4 cycles through all the various combinations of absolute and relative references. Ctrl+F4: closes the selected workbook window. Alt+F4: closes Excel.",
+                      "action": "F4 alone: repeats the last command or action, if possible.When a cell reference or range is selected in a formula, F4 cycles through all the various combinations of absolute and relative references.Ctrl+F4: closes the selected workbook window.Alt+F4: closes Excel.",
                       "keys": "F4"
                     },
                     {
-                      "action": "F5 alone: displays the Go To dialog box. Ctrl+F5: restores the window size of the selected workbook window.",
+                      "action": "F5 alone: displays the Go To dialog box.Ctrl+F5: restores the window size of the selected workbook window.",
                       "keys": "F5"
                     },
                     {
-                      "action": "F6 alone: switches between the worksheet, ribbon, task pane, and Zoom controls. In a worksheet that has been split, F6 includes the split panes when switching between panes and the ribbon area. Shift+F6: switches between the worksheet, Zoom controls, task pane, and ribbon. Ctrl+F6: switches between two Excel windows. Ctrl+Shift+F6: switches between all Excel windows.",
+                      "action": "F6 alone: switches between the worksheet, ribbon, task pane, and Zoom controls. In a worksheet that has been split, F6 includes the split panes when switching between panes and the ribbon area.Shift+F6: switches between the worksheet, Zoom controls, task pane, and ribbon.Ctrl+F6: switches between two Excel windows.Ctrl+Shift+F6: switches between all Excel windows.",
                       "keys": "F6"
                     },
                     {
-                      "action": "F9 alone: calculates all worksheets in all open workbooks. Shift+F9: calculates the active worksheet. Ctrl+Alt+F9: calculates all worksheets in all open workbooks, regardless of whether they have changed since the last calculation. Ctrl+Alt+Shift+F9: rechecks dependent formulas, and then calculates all cells in all open workbooks, including cells not marked as needing to be calculated. Ctrl+F9: minimizes a workbook window to an icon.",
+                      "action": "F9 alone: calculates all worksheets in all open workbooks.Shift+F9: calculates the active worksheet.Ctrl+Alt+F9: calculates all worksheets in all open workbooks, regardless of whether they have changed since the last calculation.Ctrl+Alt+Shift+F9: rechecks dependent formulas, and then calculates all cells in all open workbooks, including cells not marked as needing to be calculated.Ctrl+F9: minimizes a workbook window to an icon.",
                       "keys": "F9"
                     },
                     {
-                      "action": "F11 alone: creates a chart of the data in the current range in a separate Chart sheet. Shift+F11: inserts a new worksheet. Alt+F11: opens the Microsoft Visual Basic For Applications Editor, in which you can create a macro by using Visual Basic for Applications (VBA).",
+                      "action": "F11 alone: creates a chart of the data in the current range in a separate Chart sheet.Shift+F11: inserts a new worksheet.Alt+F11: opens the Microsoft Visual Basic For Applications Editor, in which you can create a macro by using Visual Basic for Applications (VBA).",
                       "keys": "F11"
                     },
                     {
@@ -3665,7 +3665,7 @@
                     },
                     {
                       "action": "Help",
-                      "keys": "F1 alone: displays theExcel task pane."
+                      "keys": "F1 alone: displays the Excel task pane."
                     },
                     {
                       "action": "F2 alone",
@@ -3685,7 +3685,7 @@
                     },
                     {
                       "action": "F4 alone",
-                      "keys": "repeats the last command or action, if possible. When a cell reference or range is selected in a formula, F4 cycles through all the various combinations of absolute and relative references."
+                      "keys": "repeats the last command or action, if possible.When a cell reference or range is selected in a formula, F4 cycles through all the various combinations of absolute and relative references."
                     },
                     {
                       "action": "Go To",
@@ -3753,23 +3753,23 @@
                   "title": "Other useful shortcut keys",
                   "shortcuts": [
                     {
-                      "action": "Cancels an entry in the cell or formula bar. Closes an open menu or submenu, dialog box, or message window.",
+                      "action": "Cancels an entry in the cell or formula bar.Closes an open menu or submenu, dialog box, or message window.",
                       "keys": "Esc"
                     },
                     {
-                      "action": "Moves to the beginning of a row in a worksheet. Moves to the cell in the upper-left corner of the window when Scroll lock is turned on. Selects the first command on the menu when a menu or submenu is visible. Ctrl+Home moves to the beginning of a worksheet. Ctrl+Shift+Home extends the selection of cells to the beginning of the worksheet.",
+                      "action": "Moves to the beginning of a row in a worksheet.Moves to the cell in the upper-left corner of the window when Scroll lock is turned on.Selects the first command on the menu when a menu or submenu is visible.Ctrl+Home moves to the beginning of a worksheet.Ctrl+Shift+Home extends the selection of cells to the beginning of the worksheet.",
                       "keys": "Home"
                     },
                     {
-                      "action": "Moves one screen down in a worksheet. Alt+Page down moves one screen to the right in a worksheet. Ctrl+Page down moves to the next sheet in a workbook. Ctrl+Shift+Page down selects the current and next sheet in a workbook.",
+                      "action": "Moves one screen down in a worksheet.Alt+Page down moves one screen to the right in a worksheet.Ctrl+Page down moves to the next sheet in a workbook.Ctrl+Shift+Page down selects the current and next sheet in a workbook.",
                       "keys": "Page down"
                     },
                     {
-                      "action": "Moves one screen up in a worksheet. Alt+Page up moves one screen to the left in a worksheet. Ctrl+Page up moves to the previous sheet in a workbook. Ctrl+Shift+Page up selects the current and previous sheet in a workbook.",
+                      "action": "Moves one screen up in a worksheet.Alt+Page up moves one screen to the left in a worksheet.Ctrl+Page up moves to the previous sheet in a workbook.Ctrl+Shift+Page up selects the current and previous sheet in a workbook.",
                       "keys": "Page up"
                     },
                     {
-                      "action": "Moves one cell to the right in a worksheet. Moves between unlocked cells in a protected worksheet. Moves to the next option or option group in a dialog box. Shift+Tab moves to the previous cell in a worksheet or the previous option in a dialog box. Ctrl+Tab switches to the next tab in a dialog box, or (if no dialog box is open) switches between two Excel windows. Ctrl+Shift+Tab switches to the previous tab in a dialog box, or (if no dialog box is open) switches between all Excel windows.",
+                      "action": "Moves one cell to the right in a worksheet.Moves between unlocked cells in a protected worksheet.Moves to the next option or option group in a dialog box.Shift+Tab moves to the previous cell in a worksheet or the previous option in a dialog box.Ctrl+Tab switches to the next tab in a dialog box, or (if no dialog box is open) switches between two Excel windows.Ctrl+Shift+Tab switches to the previous tab in a dialog box, or (if no dialog box is open) switches between all Excel windows.",
                       "keys": "Tab key"
                     },
                     {
@@ -3801,7 +3801,7 @@
               ]
             },
             {
-              "name": "macOS",
+              "name": "tabpanel_1_macos",
               "sections": [
                 {
                   "title": "General",
@@ -3811,12 +3811,12 @@
                       "keys": "Many of the shortcuts that use the key on a Windows keyboard also work with the Control key in Excel for Mac. However, not all do."
                     },
                     {
-                      "action": "Command",
-                      "keys": "To quickly find a shortcut in this article, you can use the Search. Press+F, and then type your search words."
+                      "action": "F",
+                      "keys": "To quickly find a shortcut in this article, you can use the Search. Press Command+, and then type your search words."
                     },
                     {
                       "action": "Excel",
-                      "keys": "Click-to-add is available but requires a setup. Select > Preferences > Edit > Enable Click to Add Mode. To start a formula, type an equal sign (=), and then select cells to add them together. The plus sign (+) will be added automatically."
+                      "keys": "Click-to-add is available but requires a setup. Select > Preferences > Edit > Enable Click to Add Mode. To start a formula, type an equal sign (⁠=⁠), and then select cells to add them together. The plus sign (+) will be added automatically."
                     }
                   ]
                 },
@@ -4568,7 +4568,7 @@
                     },
                     {
                       "action": "Move selected rows, columns, or cells.",
-                      "keys": "Hold the Shift key while you drag a selected row, column, or selected cells to move the selected cells and drop to insert them in a new location. If you don't hold the Shift key while you drag and drop, the selected cells will be cut from the original location and pasted to the new location (not inserted)."
+                      "keys": "Hold the Shift key while you drag a selected row, column, or selected cells to move the selected cells and drop to insert them in a new location.If you don't hold the Shift key while you drag and drop, the selected cells will be cut from the original location and pasted to the new location (not inserted)."
                     },
                     {
                       "action": "Move from top to bottom within the selection (down). *",
@@ -4801,7 +4801,7 @@
               ]
             },
             {
-              "name": "Office",
+              "name": "tabpanel_1_office-for-ios",
               "sections": [
                 {
                   "title": "General",
@@ -4953,7 +4953,7 @@
               ]
             },
             {
-              "name": "Office",
+              "name": "tabpanel_1_office-for-android",
               "sections": [
                 {
                   "title": "General",
@@ -5028,7 +5028,7 @@
               ]
             },
             {
-              "name": "Web",
+              "name": "tabpanel_1_web",
               "sections": [
                 {
                   "title": "General",
@@ -5048,7 +5048,7 @@
                   "shortcuts": [
                     {
                       "action": "Alt+Windows",
-                      "keys": "To find any command quickly, press WindowsLogo icon key, Q to jump to the Search or Tell Me text field. In Search or Tell Me, type a word or the name of a command you want (available only in Editing mode). Search or Tell Me searches for related options and provides a list. Use the Up and Down arrow keys to select a command, and then press Enter. Depending on the version of Microsoft 365 you are using, the Search text field at the top of the app window might be called Tell Me instead. Both offer a largely similar experience, but some options and search results can vary."
+                      "keys": "To find any command quickly, press WindowsLogo key, Q to jump to the Search or Tell Me text field. In Search or Tell Me, type a word or the name of a command you want (available only in Editing mode). Search or Tell Me searches for related options and provides a list. Use the Up and Down arrow keys to select a command, and then press Enter. Depending on the version of Microsoft 365 you are using, the Search text field at the top of the app window might be called Tell Me instead. Both offer a largely similar experience, but some options and search results can vary."
                     },
                     {
                       "action": "Go To",
@@ -5113,7 +5113,7 @@
                     },
                     {
                       "action": "Open the context menu.",
-                      "keys": "Windows keyboards: Shift+F10 or Windows Menu key Other keyboards: Shift+F10"
+                      "keys": "Windows keyboards: Shift+F10 or Windows Menu keyOther keyboards: Shift+F10"
                     },
                     {
                       "action": "Jump to Search or Tell me.",
@@ -5146,7 +5146,7 @@
                   "shortcuts": [
                     {
                       "action": "Alt+Windows",
-                      "keys": "To get to the ribbon, press WindowsLogo icon key, or press Ctrl+F6 until you reach the Home tab."
+                      "keys": "To get to the ribbon, press WindowsLogo key, or press Ctrl+F6 until you reach the Home tab."
                     },
                     {
                       "action": "Tab",
@@ -5163,7 +5163,7 @@
                   "shortcuts": [
                     {
                       "action": "Go to the Search or Tell Me field on the ribbon and type a search term.",
-                      "keys": "Alt+Windows WindowsLogo icon key, Q"
+                      "keys": "Alt+Windows WindowsLogo key, Q"
                     },
                     {
                       "action": "Open the File menu.",
@@ -5171,7 +5171,7 @@
                     },
                     {
                       "action": "Open the Home tab and format text and numbers or use other tools such as Sort & Filter.",
-                      "keys": "Alt+Windows WindowsLogo icon key, H"
+                      "keys": "Alt+Windows WindowsLogo key, H"
                     },
                     {
                       "action": "Open the Insert tab and insert a function, table, chart, hyperlink, or threaded comment.",
@@ -5179,7 +5179,7 @@
                     },
                     {
                       "action": "Open the Data tab and refresh connections or use data tools.",
-                      "keys": "Alt+Windows WindowsLogo icon key, A"
+                      "keys": "Alt+Windows WindowsLogo key, A"
                     },
                     {
                       "action": "Open the Review tab and use the Accessibility Checker or work with threaded comments and notes.",
@@ -5187,7 +5187,7 @@
                     },
                     {
                       "action": "Open the View tab to choose a view, freeze rows or columns in your worksheet, or show gridlines and headers.",
-                      "keys": "Alt+Windows WindowsLogo icon key, W"
+                      "keys": "Alt+Windows WindowsLogo key, W"
                     }
                   ]
                 },
@@ -5221,7 +5221,7 @@
                   "shortcuts": [
                     {
                       "action": "Insert a row above the current row.",
-                      "keys": "Alt+Windows WindowsLogo icon key, H, I, R"
+                      "keys": "Alt+Windows WindowsLogo key, H, I, R"
                     },
                     {
                       "action": "Insert a column to the left of the current column.",
@@ -5273,7 +5273,7 @@
                     },
                     {
                       "action": "Apply a filter.",
-                      "keys": "Alt+Windows WindowsLogo icon key, A, T"
+                      "keys": "Alt+Windows WindowsLogo key, A, T"
                     },
                     {
                       "action": "Re-apply a filter.",
@@ -5473,7 +5473,7 @@
                     },
                     {
                       "action": "Move to a different ribbon tab.",
-                      "keys": "Tab key Press Enter to go to the ribbon for the tab."
+                      "keys": "Tab keyPress Enter to go to the ribbon for the tab."
                     },
                     {
                       "action": "Insert a new sheet.",
@@ -5738,7 +5738,7 @@
           "url": "https://support.microsoft.com/en-us/office/use-keyboard-shortcuts-to-create-powerpoint-presentations-ebb3d20e-dcd4-444f-a38e-bb5c5ed180f4",
           "platforms": [
             {
-              "name": "Windows",
+              "name": "tabpanel_1_windows",
               "sections": [
                 {
                   "title": "General",
@@ -5891,7 +5891,7 @@
                     },
                     {
                       "action": "Duplicate selected objects.",
-                      "keys": "Ctrl+D or Ctrl+Drag the mouse Office 2010 and Office 2007: Not available"
+                      "keys": "Ctrl+D or Ctrl+Drag the mouseOffice 2010 and Office 2007: Not available"
                     },
                     {
                       "action": "Copy the formatting of the selected object or text.",
@@ -5903,11 +5903,11 @@
                     },
                     {
                       "action": "Copy animation painter.",
-                      "keys": "Alt+Shift+C Office 2010 and Office 2007: Not available"
+                      "keys": "Alt+Shift+COffice 2010 and Office 2007: Not available"
                     },
                     {
                       "action": "Paste animation painter.",
-                      "keys": "Alt+Shift+V Office 2010 and Office 2007: Not available"
+                      "keys": "Alt+Shift+VOffice 2010 and Office 2007: Not available"
                     },
                     {
                       "action": "Open the Paste Special dialog box.",
@@ -5928,11 +5928,11 @@
                     },
                     {
                       "action": "Send object back one position.",
-                      "keys": "Ctrl+Shift+Left bracket ([) Office 2010 and Office 2007: Not available"
+                      "keys": "Ctrl+Shift+Left bracket ([)Office 2010 and Office 2007: Not available"
                     },
                     {
                       "action": "Bring object forward one position.",
-                      "keys": "Ctrl+Shift+Right bracket (]) Office 2010 and Office 2007: Not available"
+                      "keys": "Ctrl+Shift+Right bracket (])Office 2010 and Office 2007: Not available"
                     },
                     {
                       "action": "Select all objects on a slide.",
@@ -6331,7 +6331,7 @@
                   "shortcuts": [
                     {
                       "action": "Open the Selection pane.",
-                      "keys": "Alt+F10 Alt+H, S, L, P Office 2007: Alt+J, D, A, P"
+                      "keys": "Alt+F10Alt+H, S, L, POffice 2007: Alt+J, D, A, P"
                     },
                     {
                       "action": "Cycle the focus through the different panes.",
@@ -6408,7 +6408,7 @@
                     },
                     {
                       "action": "Display the full set of commands on a task pane menu. You can access, for example, the Close, Move, or Size buttons of a task pane.",
-                      "keys": "Ctrl+Spacebar Office 2010: Ctrl+Down arrow key"
+                      "keys": "Ctrl+SpacebarOffice 2010: Ctrl+Down arrow key"
                     },
                     {
                       "action": "Move to the next command on the task pane menu.",
@@ -6590,7 +6590,7 @@
               ]
             },
             {
-              "name": "macOS",
+              "name": "tabpanel_1_macos",
               "sections": [
                 {
                   "title": "General",
@@ -7218,7 +7218,7 @@
               ]
             },
             {
-              "name": "iOS",
+              "name": "tabpanel_1_ios",
               "sections": [
                 {
                   "title": "General",
@@ -7468,7 +7468,7 @@
               ]
             },
             {
-              "name": "Android",
+              "name": "tabpanel_1_android",
               "sections": [
                 {
                   "title": "Edit and format the presentation",
@@ -7526,7 +7526,7 @@
               ]
             },
             {
-              "name": "Web",
+              "name": "tabpanel_1_web",
               "sections": [
                 {
                   "title": "General",
@@ -8115,12 +8115,12 @@
                   "title": "Navigate the ribbon and panes",
                   "shortcuts": [
                     {
-                      "action": "Move forward between the following regions: Slide pane Notes pane Status bar Title bar Ribbon Thumbnail pane",
+                      "action": "Move forward between the following regions:Slide paneNotes paneStatus barTitle barRibbonThumbnail pane",
                       "keys": "Ctrl+F6",
                       "notes": "⌘+F6"
                     },
                     {
-                      "action": "Move backward between the following regions: Slide pane Thumbnail pane Ribbon Title bar Status bar Notes pane",
+                      "action": "Move backward between the following regions:Slide paneThumbnail paneRibbonTitle barStatus barNotes pane",
                       "keys": "Shift+Ctrl+F6",
                       "notes": "Shift+⌘+F6"
                     },
@@ -8161,7 +8161,7 @@
           "url": "https://support.microsoft.com/en-us/office/use-keyboard-shortcuts-to-deliver-powerpoint-presentations-1524ffce-bd2a-45f4-9a7f-f18b992b93a0",
           "platforms": [
             {
-              "name": "Windows",
+              "name": "tabpanel_1_windows",
               "sections": [
                 {
                   "title": "General",
@@ -8189,11 +8189,11 @@
                     },
                     {
                       "action": "Perform the next animation or advance to the next slide.",
-                      "keys": "N Enter Page down Right arrow key Down arrow key Spacebar"
+                      "keys": "NEnterPage downRight arrow keyDown arrow keySpacebar"
                     },
                     {
                       "action": "Perform the previous animation or return to the previous slide.",
-                      "keys": "P Page up Left arrow key Up arrow key Backspace"
+                      "keys": "PPage upLeft arrow keyUp arrow keyBackspace"
                     },
                     {
                       "action": "Hide the pointer and navigation buttons.",
@@ -8222,7 +8222,7 @@
                     },
                     {
                       "action": "Return to the first slide.",
-                      "keys": "Home Press and hold the Right and Left mouse buttons for two seconds"
+                      "keys": "HomePress and hold the Right and Left mouse buttons for two seconds"
                     },
                     {
                       "action": "Go to the last slide.",
@@ -8241,7 +8241,7 @@
                       "keys": "F1"
                     },
                     {
-                      "action": "Go to the next hotspot on the current slide. (Hotspots include hyperlinks, animation triggers, audio objects, and video objects.)",
+                      "action": "Go to the next hotspot on the current slide.(Hotspots include hyperlinks, animation triggers, audio objects, and video objects.)",
                       "keys": "Tab key"
                     },
                     {
@@ -8263,7 +8263,7 @@
                     },
                     {
                       "action": "Play or pause media.",
-                      "keys": "Alt+P Ctrl+Spacebar"
+                      "keys": "Alt+PCtrl+Spacebar"
                     },
                     {
                       "action": "Stop media playback.",
@@ -8306,7 +8306,7 @@
                       "keys": "Alt+Shift+Left arrow key"
                     },
                     {
-                      "action": "Show or hide the audio and subtitles menu. (For videos that have multiple audio tracks and/or subtitle tracks in supported formats.)",
+                      "action": "Show or hide the audio and subtitles menu.(For videos that have multiple audio tracks and/or subtitle tracks in supported formats.)",
                       "keys": "Alt+J"
                     }
                   ]
@@ -8348,7 +8348,7 @@
                   "title": "Maneuver in Presenter View",
                   "shortcuts": [
                     {
-                      "action": "Cycle between Presenter View regions. (Buttons above the slide, buttons on the upper-right corner, and the Notes pane)",
+                      "action": "Cycle between Presenter View regions.(Buttons above the slide, buttons on the upper-right corner, and the Notes pane)",
                       "keys": "F6"
                     },
                     {
@@ -8380,7 +8380,7 @@
                       "keys": "Alt+Z"
                     },
                     {
-                      "action": "Read the elapsed time. (The timer starts running as soon as you start Presenter View.)",
+                      "action": "Read the elapsed time.(The timer starts running as soon as you start Presenter View.)",
                       "keys": "Alt+W"
                     },
                     {
@@ -8396,7 +8396,7 @@
               ]
             },
             {
-              "name": "macOS",
+              "name": "tabpanel_1_macos",
               "sections": [
                 {
                   "title": "General",
@@ -8419,11 +8419,11 @@
                     },
                     {
                       "action": "Perform the next animation or advance to the next slide.",
-                      "keys": "N Page down Right arrow key Down arrow key Spacebar"
+                      "keys": "NPage downRight arrow keyDown arrow keySpacebar"
                     },
                     {
                       "action": "Perform the previous animation or return to the previous slide.",
-                      "keys": "P Page up Left arrow key Up arrow key Delete"
+                      "keys": "PPage upLeft arrow keyUp arrow keyDelete"
                     },
                     {
                       "action": "Hide the pointer.",
@@ -8431,15 +8431,15 @@
                     },
                     {
                       "action": "Display a blank black slide, or return to the presentation from a blank black slide.",
-                      "keys": "B Shift+B Period (.)"
+                      "keys": "BShift+BPeriod (.)"
                     },
                     {
                       "action": "Display a blank white slide, or return to the presentation from a blank white slide.",
-                      "keys": "W Shift+W Comma (, )"
+                      "keys": "WShift+WComma (, )"
                     },
                     {
                       "action": "End the presentation.",
-                      "keys": "Esc Hyphen (-) Command+Period (.)"
+                      "keys": "EscHyphen (-)Command+Period (.)"
                     }
                   ]
                 },
@@ -8463,7 +8463,7 @@
                       "keys": "Control+Mouse click"
                     },
                     {
-                      "action": "Go to the next hotspot on the current slide. (Hotspots include hyperlinks, animation triggers, audio objects, and video objects.)",
+                      "action": "Go to the next hotspot on the current slide.(Hotspots include hyperlinks, animation triggers, audio objects, and video objects.)",
                       "keys": "Tab key"
                     },
                     {
@@ -8568,7 +8568,7 @@
               ]
             },
             {
-              "name": "Web",
+              "name": "tabpanel_1_web",
               "sections": [
                 {
                   "title": "General",
@@ -8589,13 +8589,13 @@
                     },
                     {
                       "action": "Perform the next animation or advance to the next slide.",
-                      "keys": "N Enter Page down Right arrow key Down arrow key Spacebar",
-                      "notes": "N Return Page down Right arrow key Down arrow key Spacebar"
+                      "keys": "NEnterPage downRight arrow keyDown arrow keySpacebar",
+                      "notes": "NReturnPage downRight arrow keyDown arrow keySpacebar"
                     },
                     {
                       "action": "Perform the previous animation or return to the previous slide.",
-                      "keys": "P Page up Left arrow key Up arrow key Backspace",
-                      "notes": "P Page up Left arrow key Up arrow key Delete"
+                      "keys": "PPage upLeft arrow keyUp arrow keyBackspace",
+                      "notes": "PPage upLeft arrow keyUp arrow keyDelete"
                     },
                     {
                       "action": "End the presentation.",
@@ -8620,7 +8620,7 @@
           "url": "https://support.microsoft.com/en-us/office/keyboard-shortcuts-for-outlook-3cdeb221-7ae5-4c1d-8c1d-9e63216c1efd",
           "platforms": [
             {
-              "name": "New Outlook",
+              "name": "tabpanel_1_new-outlook",
               "sections": [
                 {
                   "title": "General",
@@ -8837,16 +8837,16 @@
                       "keys": "Enter"
                     },
                     {
-                      "action": "In Day view, move to the previous day. In Week and Work Week views, move to the previous week. In Month view, move to the previous month.​​​​​​​",
-                      "keys": "Moving days: Ctrl+Alt+Left arrow key Moving weeks: Alt+Down arrow key Moving months: Alt+PageDown"
+                      "action": "In Day view, move to the previous day. In Week and Work Week views, move to the previous week. In Month view, move to the previous month.",
+                      "keys": "Moving days: Ctrl+Alt+Left arrow keyMoving weeks: Alt+Down arrow keyMoving months: Alt+PageDown"
                     },
                     {
                       "action": "In Day view, move to the next day. In Week and Work Week views, move to the next week. In Month view, move to the next month.",
-                      "keys": "Moving days: Ctrl+Alt+Right arrow key Moving weeks: Alt+Up arrow key Moving months: Alt+PageUp"
+                      "keys": "Moving days: Ctrl+Alt+Right arrow keyMoving weeks: Alt+Up arrow keyMoving months: Alt+PageUp"
                     },
                     {
                       "action": "Move to a different region in the calendar.",
-                      "keys": "F6 or Ctrl+Shift+Tab​​​​​​​"
+                      "keys": "F6 or Ctrl+Shift+Tab"
                     },
                     {
                       "action": "Move to the next event or area in the current view.",
@@ -8858,7 +8858,7 @@
                     },
                     {
                       "action": "Go to the next time period.",
-                      "keys": "Ctrl+Alt+Right arrow key​​​​​​​"
+                      "keys": "Ctrl+Alt+Right arrow key"
                     },
                     {
                       "action": "Go to the previous time period.",
@@ -8877,7 +8877,7 @@
                       "keys": "Ctrl+Alt+2/Alt+\"-\""
                     },
                     {
-                      "action": "Switch to Month view.​​​​​​​",
+                      "action": "Switch to Month view.",
                       "keys": "Ctrl+Alt+4/Alt+\"=\""
                     },
                     {
@@ -8890,7 +8890,7 @@
                     },
                     {
                       "action": "Invite Attendees.",
-                      "keys": "CTRL+N (Create New Event)​​​​​​"
+                      "keys": "CTRL+N (Create New Event)"
                     }
                   ]
                 },
@@ -8986,7 +8986,7 @@
               ]
             },
             {
-              "name": "Classic Outlook",
+              "name": "tabpanel_1_classic-outlook",
               "sections": [
                 {
                   "title": "General",
@@ -9037,7 +9037,7 @@
                     },
                     {
                       "action": "Copy an item.",
-                      "keys": "Ctrl+C or Ctrl+Insert Note: Ctrl+Insert is not available in the Reading pane."
+                      "keys": "Ctrl+C or Ctrl+InsertNote: Ctrl+Insert is not available in the Reading pane."
                     },
                     {
                       "action": "Go to the Send/Receive tab.",
@@ -9341,7 +9341,7 @@
                     },
                     {
                       "action": "Copy a selection.",
-                      "keys": "Ctrl+C or Ctrl+Insert Note: Ctrl+Insert is not available in the Reading pane."
+                      "keys": "Ctrl+C or Ctrl+InsertNote: Ctrl+Insert is not available in the Reading pane."
                     },
                     {
                       "action": "Paste the copied or cut selection.",
@@ -9824,7 +9824,7 @@
                       "keys": "Alt+R"
                     },
                     {
-                      "action": "In an email message, select the InfoBar and, if available, show the options menu. The InfoBar appears in messages that contain additional information, for example, about conflicting meetings and actions are needed. If available, the InfoBar appears in the message below the subject and sender.",
+                      "action": "In an email message, select the InfoBar and, if available, show the options menu.The InfoBar appears in messages that contain additional information, for example, about conflicting meetings and actions are needed. If available, the InfoBar appears in the message below the subject and sender.",
                       "keys": "Ctrl+Shift+W"
                     },
                     {
@@ -10695,7 +10695,7 @@
               ]
             },
             {
-              "name": "Outlook on the web",
+              "name": "tabpanel_1_outlook-on-the-web",
               "sections": [
                 {
                   "title": "General",
@@ -10910,12 +10910,12 @@
                       "keys": "Enter"
                     },
                     {
-                      "action": "In Day view, move to the previous day. In Week and Work Week views, move to the previous week. In Month view, move to the previous month.​​​​​​​",
-                      "keys": "Moving days= Ctrl+Alt+Left arrow key​​​​​​​ Moving weeks= Alt+Down arrow key Moving months= Alt+PageDown"
+                      "action": "In Day view, move to the previous day. In Week and Work Week views, move to the previous week. In Month view, move to the previous month.",
+                      "keys": "Moving days= Ctrl+Alt+Left arrow keyMoving weeks= Alt+Down arrow keyMoving months= Alt+PageDown"
                     },
                     {
                       "action": "In Day view, move to the next day. In Week and Work Week views, move to the next week. In Month view, move to the next month.",
-                      "keys": "Moving days= Ctrl+Alt+Right arrow key​​​​​​​ Moving weeks= Alt+Up arrow key Moving months= Alt+PageUp"
+                      "keys": "Moving days= Ctrl+Alt+Right arrow keyMoving weeks= Alt+Up arrow keyMoving months= Alt+PageUp"
                     },
                     {
                       "action": "Move to a different region in the calendar.",
@@ -10950,7 +10950,7 @@
                       "keys": "Shift+Alt+3"
                     },
                     {
-                      "action": "Switch to Month view.​​​​​​​",
+                      "action": "Switch to Month view.",
                       "keys": "Shift+Alt+4"
                     },
                     {
@@ -11109,7 +11109,7 @@
           "url": "https://support.microsoft.com/en-us/office/keyboard-shortcuts-in-onenote-44b8b3f4-c274-4bcc-a089-e80fdcc87950",
           "platforms": [
             {
-              "name": "Windows",
+              "name": "tabpanel_1_windows",
               "sections": [
                 {
                   "title": "General",
@@ -11124,7 +11124,7 @@
                     },
                     {
                       "action": "Create a Quick Note.",
-                      "keys": "Ctrl+Shift+M or Alt+Windows WindowsLogo icon key+N"
+                      "keys": "Ctrl+Shift+M or Alt+Windows WindowsLogo key+N"
                     },
                     {
                       "action": "Dock the OneNote window.",
@@ -11140,7 +11140,7 @@
                     },
                     {
                       "action": "Select all items on the current page.",
-                      "keys": "Ctrl+A To expand the selection, press Ctrl+A again."
+                      "keys": "Ctrl+ATo expand the selection, press Ctrl+A again."
                     },
                     {
                       "action": "Cut the selected text or item.",
@@ -11357,8 +11357,8 @@
                       "keys": "Alt+N, S"
                     },
                     {
-                      "action": "Insert a screen clipping. Note: The OneNote icon must be active in the Windows taskbar notification area.",
-                      "keys": "Windows WindowsLogo icon key+Shift+S, and then Ctrl+V"
+                      "action": "Insert a screen clipping.Note: The OneNote icon must be active in the Windows taskbar notification area.",
+                      "keys": "Windows WindowsLogo key+Shift+S, and then Ctrl+V"
                     },
                     {
                       "action": "Insert the current date.",
@@ -11395,7 +11395,7 @@
                     },
                     {
                       "action": "Create another row when at the end cell of a table.",
-                      "keys": "Enter Note: Press Enter again to finish creating the table."
+                      "keys": "EnterNote: Press Enter again to finish creating the table."
                     },
                     {
                       "action": "Insert a row below the current row.",
@@ -11428,7 +11428,7 @@
                   "shortcuts": [
                     {
                       "action": "Select all items on the current page.",
-                      "keys": "Ctrl+A To expand the selection, press Ctrl+A again."
+                      "keys": "Ctrl+ATo expand the selection, press Ctrl+A again."
                     },
                     {
                       "action": "Select to the end of the line from the current cursor location.",
@@ -11668,11 +11668,11 @@
                     },
                     {
                       "action": "Select all items.",
-                      "keys": "Ctrl+A To expand the selection, press Ctrl+A again."
+                      "keys": "Ctrl+ATo expand the selection, press Ctrl+A again."
                     },
                     {
                       "action": "Select the current page.",
-                      "keys": "Ctrl+Shift+A If the selected page is part of a group, press Ctrl+A to select all of the pages in the group."
+                      "keys": "Ctrl+Shift+AIf the selected page is part of a group, press Ctrl+A to select all of the pages in the group."
                     },
                     {
                       "action": "Move the selected page up in the page navigation pane.",
@@ -11763,7 +11763,7 @@
                       "keys": "Ctrl+Minus sign (-)"
                     },
                     {
-                      "action": "Synchronize the notebook. Note: While OneNote is running, your notes are automatically saved whenever you change them. It is not necessary to manually save notes.",
+                      "action": "Synchronize the notebook.Note: While OneNote is running, your notes are automatically saved whenever you change them. It is not necessary to manually save notes.",
                       "keys": "Ctrl+S"
                     }
                   ]
@@ -11773,7 +11773,7 @@
                   "shortcuts": [
                     {
                       "action": "Open OneNote.",
-                      "keys": "Windows WindowsLogo icon key+Shift+N"
+                      "keys": "Windows WindowsLogo key+Shift+N"
                     },
                     {
                       "action": "Open a notebook.",
@@ -11874,7 +11874,7 @@
                     },
                     {
                       "action": "While searching the current page, move to the next result.",
-                      "keys": "Enter F3"
+                      "keys": "EnterF3"
                     },
                     {
                       "action": "While searching the current page, move to the previous result.",
@@ -11894,7 +11894,7 @@
                       "keys": "Ctrl+Shift+E"
                     },
                     {
-                      "action": "Create a TodayOutlook task from the selected note.",
+                      "action": "Create a Today Outlook task from the selected note.",
                       "keys": "Ctrl+Shift+1"
                     },
                     {
@@ -11951,7 +11951,7 @@
               ]
             },
             {
-              "name": "Office Universal Apps",
+              "name": "tabpanel_1_office-universal-apps",
               "sections": [
                 {
                   "title": "General",
@@ -12076,7 +12076,7 @@
                     },
                     {
                       "action": "Select all items on the current page.",
-                      "keys": "Ctrl+A To expand the selection, press Ctrl+A again."
+                      "keys": "Ctrl+ATo expand the selection, press Ctrl+A again."
                     },
                     {
                       "action": "Cut the selected text or item to the clipboard.",
@@ -12254,7 +12254,7 @@
                   "shortcuts": [
                     {
                       "action": "Copy a screen clipping to the clipboard (requires the Windows 10 Creators Update).",
-                      "keys": "Windows WindowsLogo icon key+Shift+S"
+                      "keys": "Windows WindowsLogo key+Shift+S"
                     },
                     {
                       "action": "Insert the current date.",
@@ -12291,7 +12291,7 @@
                     },
                     {
                       "action": "Create another row when at the end cell of a table.",
-                      "keys": "Enter Note: Press Enter again to finish creating the table."
+                      "keys": "EnterNote: Press Enter again to finish creating the table."
                     },
                     {
                       "action": "Insert a row below the current row.",
@@ -12320,7 +12320,7 @@
                   "shortcuts": [
                     {
                       "action": "Select all items on the current page.",
-                      "keys": "Ctrl+A To expand the selection, press Ctrl+A again."
+                      "keys": "Ctrl+ATo expand the selection, press Ctrl+A again."
                     },
                     {
                       "action": "Select to the end of the line.",
@@ -12548,7 +12548,7 @@
                     },
                     {
                       "action": "Select all items.",
-                      "keys": "Ctrl+A To expand the selection, press Ctrl+A again."
+                      "keys": "Ctrl+ATo expand the selection, press Ctrl+A again."
                     },
                     {
                       "action": "Select the current page.",
@@ -12623,7 +12623,7 @@
                       "keys": "Ctrl+Alt+Minus sign ( - ) on the numeric keypad or Ctrl+Alt+Shift+Hyphen (-)"
                     },
                     {
-                      "action": "Synchronize the notebook. Note: While OneNote is running, your notes are automatically saved whenever you change them. It is not necessary to manually save notes.",
+                      "action": "Synchronize the notebook.Note: While OneNote is running, your notes are automatically saved whenever you change them. It is not necessary to manually save notes.",
                       "keys": "Ctrl+S"
                     }
                   ]
@@ -12743,7 +12743,7 @@
               ]
             },
             {
-              "name": "macOS",
+              "name": "tabpanel_1_macos",
               "sections": [
                 {
                   "title": "General",
@@ -12819,7 +12819,7 @@
                     },
                     {
                       "action": "Select all items on the current page.",
-                      "keys": "Command+A To expand the selection scope, press Command+A again."
+                      "keys": "Command+ATo expand the selection scope, press Command+A again."
                     },
                     {
                       "action": "Select the page title.",
@@ -12945,7 +12945,7 @@
                     },
                     {
                       "action": "Start creating a bulleted list.",
-                      "keys": "Asterisk (*) and press Spacebar Note: To insert a single bullet in the text, press Option+8"
+                      "keys": "Asterisk (*) and press SpacebarNote: To insert a single bullet in the text, press Option+8"
                     },
                     {
                       "action": "Start creating a numbered list.",
@@ -13026,7 +13026,7 @@
                   "shortcuts": [
                     {
                       "action": "Create another table row.",
-                      "keys": "Return when at the end cell of a table. Note: Press Return again to finish the table."
+                      "keys": "Return when at the end cell of a table.Note: Press Return again to finish the table."
                     },
                     {
                       "action": "Create a table column to the right of the current column.",
@@ -13055,7 +13055,7 @@
                     },
                     {
                       "action": "Switch between pages in a section.",
-                      "keys": "Place the cursor within a page. Press Command+Control+G to move the focus to the page list. Press Control+Option+Up or Down arrow key to select the previous or next page in the section, or Command+Page up or Command+Page down."
+                      "keys": "Place the cursor within a page.Press Command+Control+G to move the focus to the page list.Press Control+Option+Up or Down arrow key to select the previous or next page in the section, or Command+Page up or Command+Page down."
                     },
                     {
                       "action": "Open other notebooks or create new ones.",
@@ -13098,7 +13098,7 @@
               ]
             },
             {
-              "name": "Web",
+              "name": "tabpanel_1_web",
               "sections": [
                 {
                   "title": "General",
@@ -13305,7 +13305,7 @@
                       "keys": "Ctrl+A, and then Tab key"
                     },
                     {
-                      "action": "Synchronize the notebook. Note: While OneNote for the web is running, your notes are automatically saved whenever you change them. It is not necessary to manually save notes.",
+                      "action": "Synchronize the notebook.Note: While OneNote for the web is running, your notes are automatically saved whenever you change them. It is not necessary to manually save notes.",
                       "keys": "Ctrl+S"
                     }
                   ]
@@ -13423,7 +13423,1434 @@
           "id": "access",
           "label": "Keyboard shortcuts",
           "url": "https://support.microsoft.com/en-us/office/keyboard-shortcuts-for-access-70a673e4-4f7b-4300-b8e5-3320fa6606e2",
-          "platforms": []
+          "platforms": [
+            {
+              "name": "All",
+              "sections": [
+                {
+                  "title": "General",
+                  "shortcuts": []
+                },
+                {
+                  "title": "Frequently used shortcuts",
+                  "shortcuts": [
+                    {
+                      "action": "Go to the Home tab.",
+                      "keys": "Alt+H"
+                    },
+                    {
+                      "action": "Go to the Tell me box on the ribbon.",
+                      "keys": "Alt+Q, and then enter the search term"
+                    },
+                    {
+                      "action": "Display the shortcut menu for the selected item.",
+                      "keys": "Shift+F10 or the Windows Menu key"
+                    },
+                    {
+                      "action": "Move the focus to a different pane of the window.",
+                      "keys": "F6"
+                    },
+                    {
+                      "action": "Open an existing database.",
+                      "keys": "Ctrl+O"
+                    },
+                    {
+                      "action": "Show or hide the Navigation Pane.",
+                      "keys": "F11"
+                    },
+                    {
+                      "action": "Show or hide a property sheet.",
+                      "keys": "F4"
+                    },
+                    {
+                      "action": "Switch between Edit mode (with insertion point displayed) and Navigation mode in the Datasheet View or Design View.",
+                      "keys": "F2"
+                    },
+                    {
+                      "action": "Switch to the Form View from the form in the Design View.",
+                      "keys": "F5"
+                    },
+                    {
+                      "action": "Move to the next or previous field in the Datasheet View.",
+                      "keys": "Tab key or Shift+Tab"
+                    },
+                    {
+                      "action": "Go to a specific record in the Datasheet View.",
+                      "keys": "Alt+F5, then, in the record number box, type the record number and press Enter"
+                    },
+                    {
+                      "action": "Open the Print dialog box (for datasheets, forms, and reports).",
+                      "keys": "Ctrl+P"
+                    },
+                    {
+                      "action": "Open the Find tab in the Find and Replace dialog box in the Datasheet View or Form View.",
+                      "keys": "Ctrl+F"
+                    },
+                    {
+                      "action": "Open the Help window.",
+                      "keys": "F1"
+                    },
+                    {
+                      "action": "Exit Access.",
+                      "keys": "Alt+F4"
+                    }
+                  ]
+                },
+                {
+                  "title": "Navigate the ribbon with only the keyboard",
+                  "shortcuts": [
+                    {
+                      "action": "Alt",
+                      "keys": "To get to the ribbon, press, and then, to move between the tabs, use the Right and Left arrow keys."
+                    },
+                    {
+                      "action": "Go to the File menu.",
+                      "keys": "Alt+F"
+                    },
+                    {
+                      "action": "Go to the Home tab.",
+                      "keys": "Alt+H"
+                    },
+                    {
+                      "action": "Go to the Create tab.",
+                      "keys": "Alt+C"
+                    },
+                    {
+                      "action": "Go to the External Data tab.",
+                      "keys": "Alt+X"
+                    },
+                    {
+                      "action": "Go to the Database Tools tab.",
+                      "keys": "Alt+Y, 1"
+                    },
+                    {
+                      "action": "Go to the Table tab.",
+                      "keys": "Alt+J, T"
+                    },
+                    {
+                      "action": "Go to the Add-ins tab, if present.",
+                      "keys": "Alt+X, 2"
+                    },
+                    {
+                      "action": "Go to the Tell me box on the ribbon.",
+                      "keys": "Alt+Q"
+                    }
+                  ]
+                },
+                {
+                  "title": "Use the keyboard to work with ribbon tabs",
+                  "shortcuts": [
+                    {
+                      "action": "Alt",
+                      "keys": "To move to the ribbon tabs, press . To go directly to a tab, press its KeyTip."
+                    },
+                    {
+                      "action": "Ctrl+Right",
+                      "keys": "To move between groups on a ribbon, press or Left arrow key."
+                    },
+                    {
+                      "action": "Tab",
+                      "keys": "To move between commands within a group, press the key or Shift+Tab."
+                    },
+                    {
+                      "action": "Spacebar",
+                      "keys": "You activate controls in different ways, depending on the type of the control: If the selected control is a button, to activate it, press or Enter. If the selected control is a split button (that is, a button that opens a menu of additional options), to activate it, press Alt+Down arrow key. Press the Tab key to browse the options. To select the current option, press Spacebar or Enter. If the selected control is a list (such as the Font list), to open the list, press the Down arrow key. Then, to move between items, press the Up or Down arrow key. If the selected control is a gallery, to select the control, press Spacebar or Enter. Then, press the Tab key to browse the items."
+                    },
+                    {
+                      "action": "Spacebar",
+                      "keys": "If the selected control is a button, to activate it, press or Enter."
+                    },
+                    {
+                      "action": "Alt+Down arrow",
+                      "keys": "If the selected control is a split button (that is, a button that opens a menu of additional options), to activate it, press key. Press the Tab key to browse the options. To select the current option, press Spacebar or Enter."
+                    },
+                    {
+                      "action": "Font",
+                      "keys": "If the selected control is a list (such as the list), to open the list, press the Down arrow key. Then, to move between items, press the Up or Down arrow key."
+                    },
+                    {
+                      "action": "Spacebar",
+                      "keys": "If the selected control is a gallery, to select the control, press or Enter. Then, press the Tab key to browse the items."
+                    }
+                  ]
+                },
+                {
+                  "title": "Open and save databases",
+                  "shortcuts": [
+                    {
+                      "action": "Open a new database.",
+                      "keys": "Ctrl+N"
+                    },
+                    {
+                      "action": "Open an existing database.",
+                      "keys": "Ctrl+O"
+                    },
+                    {
+                      "action": "Open the selected folder or file.",
+                      "keys": "Enter"
+                    },
+                    {
+                      "action": "Display a shortcut menu for a selected item such as a folder or file.",
+                      "keys": "Shift+F10 or the Windows Menu key"
+                    },
+                    {
+                      "action": "Move forward through options.",
+                      "keys": "Tab key"
+                    },
+                    {
+                      "action": "Move backward through options.",
+                      "keys": "Shift+Tab"
+                    },
+                    {
+                      "action": "Open the Look in list.",
+                      "keys": "F4 or Alt+I"
+                    },
+                    {
+                      "action": "Save a database object.",
+                      "keys": "Ctrl+S"
+                    },
+                    {
+                      "action": "Open the Save As dialog box.",
+                      "keys": "F12 or Alt+F, S"
+                    }
+                  ]
+                },
+                {
+                  "title": "Print database information",
+                  "shortcuts": [
+                    {
+                      "action": "Print the current or selected object.",
+                      "keys": "Ctrl+P"
+                    },
+                    {
+                      "action": "From Print Preview, open the Print dialog box.",
+                      "keys": "P or Ctrl+P"
+                    },
+                    {
+                      "action": "Cancel Print Preview or Layout Preview.",
+                      "keys": "Esc"
+                    },
+                    {
+                      "action": "From the File menu, return to your database.",
+                      "keys": "Esc"
+                    }
+                  ]
+                },
+                {
+                  "title": "Switch from tabbed documents to windowed documents",
+                  "shortcuts": [
+                    {
+                      "action": "File",
+                      "keys": "To go to the menu, select File or press Alt+F."
+                    },
+                    {
+                      "action": "Options",
+                      "keys": "Select . The Access Options dialog box opens."
+                    }
+                  ]
+                },
+                {
+                  "title": "Move in the Access workspace",
+                  "shortcuts": [
+                    {
+                      "action": "Show or hide the Navigation Pane.",
+                      "keys": "F11"
+                    },
+                    {
+                      "action": "Go to the Search box in the Navigation Pane when the focus is already on the Navigation Pane.",
+                      "keys": "Ctrl+F"
+                    },
+                    {
+                      "action": "Switch to the next or previous pane in the workspace.",
+                      "keys": "F6 or Shift+F6You might need to press F6 more than once. If pressing F6 doesn't display the task pane you want, press Alt to move the focus to the ribbon, and then press Ctrl+Tab to move to the task pane."
+                    },
+                    {
+                      "action": "Switch to the next or previous database window.",
+                      "keys": "Ctrl+F6 or Ctrl+Shift+F6"
+                    },
+                    {
+                      "action": "Restore the selected minimized window when all windows are minimized.",
+                      "keys": "Enter"
+                    },
+                    {
+                      "action": "Close the active database window.",
+                      "keys": "Ctrl+W"
+                    },
+                    {
+                      "action": "Switch between the Visual Basic Editor and the previous active window.",
+                      "keys": "Alt+F11"
+                    }
+                  ]
+                },
+                {
+                  "title": "Use menus",
+                  "shortcuts": [
+                    {
+                      "action": "Show the program icon menu (on the program title bar), also known as the control menu.",
+                      "keys": "Alt+Spacebar"
+                    },
+                    {
+                      "action": "With the menu or submenu visible, select the next or previous command.",
+                      "keys": "Down or Up arrow key"
+                    },
+                    {
+                      "action": "Select the menu to the left or right or, when a submenu is visible, switch between the main menu and the submenu.",
+                      "keys": "Left or Right arrow key"
+                    },
+                    {
+                      "action": "Select the first or last command on the menu or submenu.",
+                      "keys": "Home or End"
+                    },
+                    {
+                      "action": "Open the selected menu, or perform the action assigned to the selected button.",
+                      "keys": "Spacebar or Enter"
+                    },
+                    {
+                      "action": "Open a shortcut menu or open a dropdown menu for the selected gallery item.",
+                      "keys": "Shift+F10 or the Windows Menu key"
+                    },
+                    {
+                      "action": "Scroll up or down in the selected gallery list.",
+                      "keys": "Page up or Page down"
+                    },
+                    {
+                      "action": "Move to the top or bottom of the selected gallery list.",
+                      "keys": "Ctrl+Home or Ctrl+End"
+                    },
+                    {
+                      "action": "Close the visible menu and submenu at the same time.",
+                      "keys": "Alt"
+                    },
+                    {
+                      "action": "Close the visible menu or, with a submenu visible, close only the submenu.",
+                      "keys": "Esc"
+                    }
+                  ]
+                },
+                {
+                  "title": "Use dialog boxes",
+                  "shortcuts": [
+                    {
+                      "action": "Switch to the next tab in a dialog box.",
+                      "keys": "Ctrl+Tab"
+                    },
+                    {
+                      "action": "Switch to the previous tab in a dialog box.",
+                      "keys": "Ctrl+Shift+Tab"
+                    },
+                    {
+                      "action": "Move to the next or previous option or option group.",
+                      "keys": "Tab key or Shift+Tab"
+                    },
+                    {
+                      "action": "Move between options in the selected dropdown list box or move between options in a group of options.",
+                      "keys": "Arrow keys"
+                    },
+                    {
+                      "action": "Open the list if it is closed and move to an option in the list.",
+                      "keys": "First letter of an option in a dropdown list"
+                    },
+                    {
+                      "action": "Select the option, or select or clear the checkbox by the letter underlined in the option name.",
+                      "keys": "Alt+letter key"
+                    },
+                    {
+                      "action": "Open the selected dropdown list box.",
+                      "keys": "Alt+Down arrow key"
+                    },
+                    {
+                      "action": "Close the selected dropdown list box.",
+                      "keys": "Esc"
+                    },
+                    {
+                      "action": "Perform the action assigned to the default button in the dialog box.",
+                      "keys": "Enter"
+                    },
+                    {
+                      "action": "Cancel the command and close the dialog box.",
+                      "keys": "Esc"
+                    }
+                  ]
+                },
+                {
+                  "title": "Use wizards",
+                  "shortcuts": [
+                    {
+                      "action": "Toggle the focus forward between controls in the wizard.",
+                      "keys": "Tab key"
+                    },
+                    {
+                      "action": "Toggle the focus between sections (header, body, and footer) of the wizard.",
+                      "keys": "F6"
+                    },
+                    {
+                      "action": "Complete the wizard.",
+                      "keys": "Alt+F"
+                    }
+                  ]
+                },
+                {
+                  "title": "Use property sheets",
+                  "shortcuts": [
+                    {
+                      "action": "Show or hide the property sheet.",
+                      "keys": "F4"
+                    },
+                    {
+                      "action": "Move among choices in the control selection dropdown list one item at a time.",
+                      "keys": "Down or Up arrow key"
+                    },
+                    {
+                      "action": "Move among choices in the control selection dropdown list one page at a time.",
+                      "keys": "Page down or Page up"
+                    },
+                    {
+                      "action": "Move to the property sheet tabs from the control selection dropdown list.",
+                      "keys": "Tab key"
+                    },
+                    {
+                      "action": "Move among the property sheet tabs with a tab selected, but no property selected.",
+                      "keys": "Left or Right arrow key"
+                    },
+                    {
+                      "action": "With a property already selected, move down one property on a tab.",
+                      "keys": "Tab key"
+                    },
+                    {
+                      "action": "With a property selected, move up one property on a tab, or if already at the top, move to the tab.",
+                      "keys": "Shift+Tab"
+                    },
+                    {
+                      "action": "Toggle forward between tabs when a property is selected.",
+                      "keys": "Ctrl+Tab"
+                    },
+                    {
+                      "action": "Toggle backward between tabs when a property is selected.",
+                      "keys": "Ctrl+Shift+Tab"
+                    }
+                  ]
+                },
+                {
+                  "title": "Edit a text box",
+                  "shortcuts": [
+                    {
+                      "action": "Move to the beginning of the entry.",
+                      "keys": "Home"
+                    },
+                    {
+                      "action": "Move to the end of the entry.",
+                      "keys": "End"
+                    },
+                    {
+                      "action": "Move one character to the left or right.",
+                      "keys": "Left or Right arrow key"
+                    },
+                    {
+                      "action": "Move one word to the left or right.",
+                      "keys": "Ctrl+Left or Right arrow key"
+                    },
+                    {
+                      "action": "Select from the insertion point to the beginning of the text entry.",
+                      "keys": "Shift+Home"
+                    },
+                    {
+                      "action": "Select from the insertion point to the end of the text entry.",
+                      "keys": "Shift+End"
+                    },
+                    {
+                      "action": "Change the selection by one character to the left.",
+                      "keys": "Shift+Left arrow key"
+                    },
+                    {
+                      "action": "Change the selection by one character to the right.",
+                      "keys": "Shift+Right arrow key"
+                    },
+                    {
+                      "action": "Change the selection by one word to the left.",
+                      "keys": "Ctrl+Shift+Left arrow key"
+                    },
+                    {
+                      "action": "Change the selection by one word to the right.",
+                      "keys": "Ctrl+Shift+Right arrow key"
+                    }
+                  ]
+                },
+                {
+                  "title": "Use a combo or list box",
+                  "shortcuts": [
+                    {
+                      "action": "Open a combo box.",
+                      "keys": "F4 or Alt+Down arrow key"
+                    },
+                    {
+                      "action": "Refresh the contents of the Lookup field list box or a combo box.",
+                      "keys": "F9"
+                    },
+                    {
+                      "action": "Move down one line.",
+                      "keys": "Down arrow key"
+                    },
+                    {
+                      "action": "Move down one page.",
+                      "keys": "Page down"
+                    },
+                    {
+                      "action": "Move up one line.",
+                      "keys": "Up arrow key"
+                    },
+                    {
+                      "action": "Move up one page.",
+                      "keys": "Page up"
+                    },
+                    {
+                      "action": "Exit the combo box or list box.",
+                      "keys": "Tab key"
+                    }
+                  ]
+                },
+                {
+                  "title": "Edit and navigate the Objects list",
+                  "shortcuts": [
+                    {
+                      "action": "Rename a selected object.Note: You can only rename an object when it is closed.",
+                      "keys": "F2"
+                    },
+                    {
+                      "action": "Move down one line.",
+                      "keys": "Down arrow key"
+                    },
+                    {
+                      "action": "Move down one window.",
+                      "keys": "Page down"
+                    },
+                    {
+                      "action": "Move to the last object.",
+                      "keys": "End"
+                    },
+                    {
+                      "action": "Move up one line.",
+                      "keys": "Up arrow key"
+                    },
+                    {
+                      "action": "Move up one window.",
+                      "keys": "Page up"
+                    }
+                  ]
+                },
+                {
+                  "title": "Navigate and open objects",
+                  "shortcuts": [
+                    {
+                      "action": "Open the selected table or query in the Datasheet View.",
+                      "keys": "Enter"
+                    },
+                    {
+                      "action": "Open the selected form or report.",
+                      "keys": "Enter"
+                    },
+                    {
+                      "action": "Run the selected macro.",
+                      "keys": "Enter"
+                    },
+                    {
+                      "action": "Open the selected table, query, form, report, macro, or module in the Design View.",
+                      "keys": "Ctrl+Enter"
+                    },
+                    {
+                      "action": "Display the Immediate window in the Visual Basic Editor.",
+                      "keys": "Ctrl+G"
+                    }
+                  ]
+                },
+                {
+                  "title": "Common shortcuts for the Design, Layout, and Datasheet views",
+                  "shortcuts": [
+                    {
+                      "action": "Switch between Edit mode (with insertion point displayed) and Navigation mode in a datasheet.",
+                      "keys": "F2"
+                    },
+                    {
+                      "action": "Exit Navigation mode and return to Edit mode in a form or report.",
+                      "keys": "Esc"
+                    },
+                    {
+                      "action": "Switch to the property sheet (in the Design View and Layout View for forms and reports).",
+                      "keys": "F4 or Alt+Enter"
+                    },
+                    {
+                      "action": "Switch to the Form View from the form in the Design view.",
+                      "keys": "F5"
+                    },
+                    {
+                      "action": "Switch between the upper and lower portions of a window (in the Design View of queries, macros, and the Advanced Filter/Sort window).",
+                      "keys": "F6"
+                    },
+                    {
+                      "action": "Switch from the Visual Basic Editor back to the form or report in the Design View.",
+                      "keys": "Alt+F11"
+                    }
+                  ]
+                },
+                {
+                  "title": "Navigate between fields and records",
+                  "shortcuts": [
+                    {
+                      "action": "Move to the next field.",
+                      "keys": "Tab key or Right arrow key"
+                    },
+                    {
+                      "action": "Move to the last field in the current record.",
+                      "keys": "End"
+                    },
+                    {
+                      "action": "Move to the previous field.",
+                      "keys": "Shift+Tab or Left arrow key"
+                    },
+                    {
+                      "action": "Move to the first field in the current record.",
+                      "keys": "Home"
+                    },
+                    {
+                      "action": "Move to the current field in the next record.",
+                      "keys": "Down arrow key"
+                    },
+                    {
+                      "action": "Move to the current field in the last record.",
+                      "keys": "Ctrl+Down arrow key"
+                    },
+                    {
+                      "action": "Move to the last field in the last record.",
+                      "keys": "Ctrl+End"
+                    },
+                    {
+                      "action": "Move to the current field in the previous record.",
+                      "keys": "Up arrow key"
+                    },
+                    {
+                      "action": "Move to the current field in the first record.",
+                      "keys": "Ctrl+Up arrow key"
+                    },
+                    {
+                      "action": "Move to the first field in the first record.",
+                      "keys": "Ctrl+Home"
+                    },
+                    {
+                      "action": "Go to a specific record.",
+                      "keys": "Alt+F5, then, in the record number box, type the record number and press Enter"
+                    },
+                    {
+                      "action": "Move to the next field.",
+                      "keys": "Tab key"
+                    },
+                    {
+                      "action": "Move to the previous field.",
+                      "keys": "Shift+Tab"
+                    },
+                    {
+                      "action": "Move to the last control on the form and remain in the current record.",
+                      "keys": "End"
+                    },
+                    {
+                      "action": "Move to the last control on the form and set focus in the last record.",
+                      "keys": "Ctrl+End"
+                    },
+                    {
+                      "action": "Move to the first control on the form and remain in the current record.",
+                      "keys": "Home"
+                    },
+                    {
+                      "action": "Move to the first control on the form and set focus in the first record.",
+                      "keys": "Ctrl+Home"
+                    },
+                    {
+                      "action": "Move to the current field in the next record.",
+                      "keys": "Ctrl+Page down"
+                    },
+                    {
+                      "action": "Move to the current field in the previous record.",
+                      "keys": "Ctrl+Page up"
+                    }
+                  ]
+                },
+                {
+                  "title": "Navigate to another screen of data",
+                  "shortcuts": [
+                    {
+                      "action": "Move up one screen.",
+                      "keys": "Page up"
+                    },
+                    {
+                      "action": "Move down one screen.",
+                      "keys": "Page down"
+                    },
+                    {
+                      "action": "Move right one screen.",
+                      "keys": "Ctrl+Page down"
+                    },
+                    {
+                      "action": "Move left one screen.",
+                      "keys": "Ctrl+Page up"
+                    }
+                  ]
+                },
+                {
+                  "title": "Select and move a column",
+                  "shortcuts": [
+                    {
+                      "action": "Select the current column or cancel the column selection, in Navigation mode only.",
+                      "keys": "Ctrl+Spacebar"
+                    },
+                    {
+                      "action": "Extend the selection one column to the right, if the current column is selected.",
+                      "keys": "Shift+Right arrow key"
+                    },
+                    {
+                      "action": "Extend the selection one column to the left, if the current column is selected.",
+                      "keys": "Shift+Left arrow key"
+                    }
+                  ]
+                },
+                {
+                  "title": "Work with subdatasheets",
+                  "shortcuts": [
+                    {
+                      "action": "Enter the subdatasheet from the last field of the previous record in the datasheet.",
+                      "keys": "Tab key"
+                    },
+                    {
+                      "action": "Enter the subdatasheet from the first field of the following record in the datasheet.",
+                      "keys": "Shift+Tab"
+                    },
+                    {
+                      "action": "Exit the subdatasheet and move to the first field of the next record in the datasheet.",
+                      "keys": "Ctrl+Tab"
+                    },
+                    {
+                      "action": "Exit the subdatasheet and move to the last field of the previous record in the datasheet.",
+                      "keys": "Ctrl+Shift+Tab"
+                    },
+                    {
+                      "action": "From the last field in the subdatasheet, enter the next field in the datasheet.",
+                      "keys": "Tab key"
+                    },
+                    {
+                      "action": "From the datasheet, bypass the subdatasheet and move to the next record in the datasheet.",
+                      "keys": "Down arrow key"
+                    },
+                    {
+                      "action": "From the datasheet, bypass the subdatasheet and move to the previous record in the datasheet.",
+                      "keys": "Up arrow key"
+                    },
+                    {
+                      "action": "Go to a specific record in a subdatasheet.Note: This moves the focus from the subdatasheet to the record number box.",
+                      "keys": "Alt+F5, then, in the record number box, type the record number and press Enter"
+                    },
+                    {
+                      "action": "Move from the datasheet to the record's subdatasheet.",
+                      "keys": "Ctrl+Shift+Down arrow key"
+                    },
+                    {
+                      "action": "Collapse the subdatasheet.",
+                      "keys": "Ctrl+Shift+Up arrow key"
+                    }
+                  ]
+                },
+                {
+                  "title": "Navigate in the Design View",
+                  "shortcuts": [
+                    {
+                      "action": "Switch between Edit mode (with insertion point displayed) and Navigation mode.",
+                      "keys": "F2"
+                    },
+                    {
+                      "action": "Open or close the property sheet.",
+                      "keys": "F4 or Alt+Enter"
+                    },
+                    {
+                      "action": "Switch to the Form View from a form in the Design View.",
+                      "keys": "F5"
+                    },
+                    {
+                      "action": "Toggle forward between the design pane, properties, Navigation Pane, ribbon, and Zoom controls (in the Design View of tables, forms, and reports).",
+                      "keys": "F6"
+                    },
+                    {
+                      "action": "Show or hide the Field List pane.",
+                      "keys": "Alt+F8"
+                    },
+                    {
+                      "action": "When you have a code module open, switch from the Visual Basic Editor to the form or report in the Design View.",
+                      "keys": "Shift+F7"
+                    },
+                    {
+                      "action": "Switch from a control's property sheet in a form or report in the Design View to the design surface without changing the control focus.",
+                      "keys": "Shift+F7"
+                    },
+                    {
+                      "action": "Copy the selected control to the clipboard.",
+                      "keys": "Ctrl+C"
+                    },
+                    {
+                      "action": "Cut the selected control and copy it to the clipboard.",
+                      "keys": "Ctrl+X"
+                    },
+                    {
+                      "action": "Paste the contents of the clipboard in the upper-left corner of the selected section.",
+                      "keys": "Ctrl+V"
+                    },
+                    {
+                      "action": "Move the selected control to the right by a pixel along the page's grid.",
+                      "keys": "Right arrow key"
+                    },
+                    {
+                      "action": "Move the selected control to the left by a pixel along the page's grid.",
+                      "keys": "Left arrow key"
+                    },
+                    {
+                      "action": "Move the selected control up by a pixel along the page's grid.Note: For controls in a stacked layout, this switches the position of the selected control with the control directly above it, unless it is already the uppermost control in the layout.",
+                      "keys": "Up arrow key"
+                    },
+                    {
+                      "action": "Move the selected control down by a pixel along the page's grid.Note: For controls in a stacked layout, this switches the position of the selected control with the control directly below it, unless it is already the lowermost control in the layout.",
+                      "keys": "Down arrow key"
+                    },
+                    {
+                      "action": "Move the selected control to the right by a pixel (irrespective of the page's grid).",
+                      "keys": "Ctrl+Right arrow key"
+                    },
+                    {
+                      "action": "Move the selected control to the left by a pixel (irrespective of the page's grid).",
+                      "keys": "Ctrl+Left arrow key"
+                    },
+                    {
+                      "action": "Move the selected control up by a pixel (irrespective of the page's grid).Note: For controls in a stacked layout, this switches the position of the selected control with the control directly above it, unless it is already the uppermost control in the layout.",
+                      "keys": "Ctrl+Up arrow key"
+                    },
+                    {
+                      "action": "Move the selected control down by a pixel (irrespective of the page's grid).Note: For controls in a stacked layout, this switches the position of the selected control with the control directly below it, unless it is already the lowermost control in the layout.",
+                      "keys": "Ctrl+Down arrow key"
+                    },
+                    {
+                      "action": "Increase the width of the selected control to the right by a pixel.Note: For controls in a stacked layout, this increases the width of the whole layout.",
+                      "keys": "Shift+Right arrow key"
+                    },
+                    {
+                      "action": "Decrease the width of the selected control to the left by a pixel.Note: For controls in a stacked layout, this decreases the width of the whole layout.",
+                      "keys": "Shift+Left arrow key"
+                    },
+                    {
+                      "action": "Decrease the height of the selected control from the bottom by a pixel.",
+                      "keys": "Shift+Up arrow key"
+                    },
+                    {
+                      "action": "Increase the height of the selected control from the bottom by a pixel.",
+                      "keys": "Shift+Down arrow key"
+                    }
+                  ]
+                },
+                {
+                  "title": "Edit using controls in the form and report in the Design View",
+                  "shortcuts": [
+                    {
+                      "action": "Copy the selected control to the clipboard.",
+                      "keys": "Ctrl+C"
+                    },
+                    {
+                      "action": "Cut the selected control and copy it to the clipboard.",
+                      "keys": "Ctrl+X"
+                    },
+                    {
+                      "action": "Paste the contents of the clipboard in the upper-left corner of the selected section.",
+                      "keys": "Ctrl+V"
+                    },
+                    {
+                      "action": "Move the selected control to the right (except a control that is part of a layout).",
+                      "keys": "Right arrow key or Ctrl+Right arrow key to move in smaller increments"
+                    },
+                    {
+                      "action": "Move the selected control to the left (except a control that is part of a layout).",
+                      "keys": "Left arrow key or Ctrl+Left arrow key to move in smaller increments"
+                    },
+                    {
+                      "action": "Move the selected control up (except a control that is part of a layout).",
+                      "keys": "Up arrow key or Ctrl+Up arrow key to move in smaller increments"
+                    },
+                    {
+                      "action": "Move the selected control down (except a control that is part of a layout).",
+                      "keys": "Down arrow key or Ctrl+Down arrow key to move in smaller increments"
+                    },
+                    {
+                      "action": "Increase the height of the selected control.Note: If used with a control that is in a layout, the entire row of the layout is resized.",
+                      "keys": "Shift+Down arrow key"
+                    },
+                    {
+                      "action": "Increase the width of the selected control.Note: If used with a control that is in a layout, the entire column of the layout is resized.",
+                      "keys": "Shift+Right arrow key"
+                    },
+                    {
+                      "action": "Reduce the height of the selected control.Note: If used with a control that is in a layout, the entire row of the layout is resized.",
+                      "keys": "Shift+Up arrow key"
+                    },
+                    {
+                      "action": "Reduce the width of the selected control.Note: If used with a control that is in a layout, the entire column of the layout is resized.",
+                      "keys": "Shift+Left arrow key"
+                    }
+                  ]
+                },
+                {
+                  "title": "Navigate in forms with more than one page",
+                  "shortcuts": [
+                    {
+                      "action": "Move down one page, or at the end of the record, move to the equivalent page on the next record.",
+                      "keys": "Page down"
+                    },
+                    {
+                      "action": "Move up one page, or at the end of the record, move to the equivalent page on the previous record.",
+                      "keys": "Page up"
+                    }
+                  ]
+                },
+                {
+                  "title": "Navigate between a main form and a subform",
+                  "shortcuts": [
+                    {
+                      "action": "Enter the subform from the preceding field in the main form.",
+                      "keys": "Tab key"
+                    },
+                    {
+                      "action": "Enter the subform from the following field in the main form.",
+                      "keys": "Shift+Tab"
+                    },
+                    {
+                      "action": "Exit the subform and move to the next field in the master form or next record.",
+                      "keys": "Ctrl+Tab"
+                    },
+                    {
+                      "action": "Exit the subform and move to the previous field in the main form or previous record.",
+                      "keys": "Ctrl+Shift+Tab"
+                    }
+                  ]
+                },
+                {
+                  "title": "Navigate in the Print Preview and Layout Preview",
+                  "shortcuts": [
+                    {
+                      "action": "Open the Print dialog box (for datasheets, forms, and reports).",
+                      "keys": "Ctrl+P"
+                    },
+                    {
+                      "action": "Cancel Print Preview or Layout Preview.",
+                      "keys": "Esc"
+                    },
+                    {
+                      "action": "Scroll down in small increments.",
+                      "keys": "Down arrow key"
+                    },
+                    {
+                      "action": "Scroll down one full screen.",
+                      "keys": "Page down"
+                    },
+                    {
+                      "action": "Move to the bottom of the page.",
+                      "keys": "Ctrl+Down arrow key"
+                    },
+                    {
+                      "action": "Scroll up in small increments.",
+                      "keys": "Up arrow key"
+                    },
+                    {
+                      "action": "Scroll up one full screen.",
+                      "keys": "Page up"
+                    },
+                    {
+                      "action": "Move to the top of the page.",
+                      "keys": "Ctrl+Up arrow key"
+                    },
+                    {
+                      "action": "Scroll to the right in small increments.",
+                      "keys": "Right arrow key"
+                    },
+                    {
+                      "action": "Move to the right edge of the page.",
+                      "keys": "End"
+                    },
+                    {
+                      "action": "Move to the lower-right corner of the page.",
+                      "keys": "Ctrl+End"
+                    },
+                    {
+                      "action": "Scroll to the left in small increments.",
+                      "keys": "Left arrow key"
+                    },
+                    {
+                      "action": "Move to the left edge of the page.",
+                      "keys": "Home"
+                    },
+                    {
+                      "action": "Move to the upper-left corner of the page.",
+                      "keys": "Ctrl+Home"
+                    },
+                    {
+                      "action": "Move to the page number box.",
+                      "keys": "Alt+F5, then, type the page number and press Enter"
+                    }
+                  ]
+                },
+                {
+                  "title": "Use a diagram pane",
+                  "shortcuts": [
+                    {
+                      "action": "Move among tables, views, and functions (and join lines, if available).",
+                      "keys": "Tab key or Shift+Tab"
+                    },
+                    {
+                      "action": "Move between columns in a table, view, or function.",
+                      "keys": "Arrow keys"
+                    },
+                    {
+                      "action": "Choose the selected data column for output.",
+                      "keys": "Spacebar or Plus sign (+)"
+                    }
+                  ]
+                },
+                {
+                  "title": "Use a grid pane",
+                  "shortcuts": [
+                    {
+                      "action": "Move among cells.",
+                      "keys": "Arrow keys, Tab key, or Shift+Tab"
+                    },
+                    {
+                      "action": "Move to the last row in the current column.",
+                      "keys": "Ctrl+Down arrow key"
+                    },
+                    {
+                      "action": "Move to the first row in the current column.",
+                      "keys": "Ctrl+Up arrow key"
+                    },
+                    {
+                      "action": "Move to the upper-left cell in the visible portion of grid.",
+                      "keys": "Ctrl+Home"
+                    },
+                    {
+                      "action": "Move to the lower-right cell.",
+                      "keys": "Ctrl+End"
+                    },
+                    {
+                      "action": "Move in a dropdown list.",
+                      "keys": "Up or Down arrow key"
+                    },
+                    {
+                      "action": "Select an entire grid column.",
+                      "keys": "Ctrl+Spacebar"
+                    },
+                    {
+                      "action": "Toggle between Edit mode and cell selection mode.",
+                      "keys": "F2"
+                    },
+                    {
+                      "action": "Copy the selected text in a cell to the clipboard (in Edit mode).",
+                      "keys": "Ctrl+C"
+                    },
+                    {
+                      "action": "Cut the selected text in a cell and place it on the clipboard (in Edit mode).",
+                      "keys": "Ctrl+X"
+                    },
+                    {
+                      "action": "Paste text from the clipboard (in Edit mode).",
+                      "keys": "Ctrl+V"
+                    }
+                  ]
+                },
+                {
+                  "title": "Use the Field List pane with a form or report in the Design View or Layout View",
+                  "shortcuts": [
+                    {
+                      "action": "Show or hide the Field List pane.",
+                      "keys": "Alt+F8"
+                    },
+                    {
+                      "action": "Add the selected field to the form or report detail section.",
+                      "keys": "Enter"
+                    },
+                    {
+                      "action": "Move up or down the Field List pane.",
+                      "keys": "Up or Down arrow key"
+                    },
+                    {
+                      "action": "Move between the upper and lower panes of the Field List.",
+                      "keys": "Tab key"
+                    }
+                  ]
+                },
+                {
+                  "title": "Select a field or record",
+                  "shortcuts": [
+                    {
+                      "action": "Select the next field.",
+                      "keys": "Tab key"
+                    },
+                    {
+                      "action": "Switch between Edit mode (with insertion point displayed) and Navigation mode in a datasheet.",
+                      "keys": "F2"
+                    },
+                    {
+                      "action": "Exit Navigation mode in a form or report.",
+                      "keys": "Esc"
+                    },
+                    {
+                      "action": "Switch between selecting the current record and the first field of the current record, in Navigation mode.",
+                      "keys": "Shift+Spacebar"
+                    },
+                    {
+                      "action": "Extend the selection to the previous record, if the current record is selected.",
+                      "keys": "Shift+Up arrow key"
+                    },
+                    {
+                      "action": "Select all records.",
+                      "keys": "Ctrl+A"
+                    }
+                  ]
+                },
+                {
+                  "title": "Select text in a field",
+                  "shortcuts": [
+                    {
+                      "action": "Change the size of the selection by one character to the right.",
+                      "keys": "Shift+Right arrow key"
+                    },
+                    {
+                      "action": "Change the size of the selection by one word to the right.",
+                      "keys": "Ctrl+Shift+Right arrow key"
+                    },
+                    {
+                      "action": "Change the size of the selection by one character to the left.",
+                      "keys": "Shift+Left arrow key"
+                    },
+                    {
+                      "action": "Change the size of the selection by one word to the left.",
+                      "keys": "Ctrl+Shift+Left arrow key"
+                    }
+                  ]
+                },
+                {
+                  "title": "Extend a selection",
+                  "shortcuts": [
+                    {
+                      "action": "Turn on Extend mode.Note: In the Datasheet View, Extended Selection appears in the lower-right corner of the window.",
+                      "keys": "F8, then repeatedly F8 to extend the selection to the word, the field, the record, and all records"
+                    },
+                    {
+                      "action": "Extend a selection to adjacent fields in the same row in the Datasheet View.",
+                      "keys": "Left or Right arrow key"
+                    },
+                    {
+                      "action": "Extend a selection to adjacent rows in the Datasheet View.",
+                      "keys": "Up or Down arrow key"
+                    },
+                    {
+                      "action": "Undo the previous extension.",
+                      "keys": "Shift+F8"
+                    },
+                    {
+                      "action": "Cancel Extend mode.",
+                      "keys": "Esc"
+                    }
+                  ]
+                },
+                {
+                  "title": "Find and replace text or data",
+                  "shortcuts": [
+                    {
+                      "action": "Open the Find tab in the Find and Replace dialog box.",
+                      "keys": "Ctrl+F"
+                    },
+                    {
+                      "action": "Find the next occurrence of the text specified in the Find and Replace dialog box when the dialog box is closed (in the Datasheet View and Form View only).",
+                      "keys": "Shift+F4"
+                    }
+                  ]
+                },
+                {
+                  "title": "Move the insertion point in a field",
+                  "shortcuts": [
+                    {
+                      "action": "Move the insertion point one character to the right.",
+                      "keys": "Right arrow key"
+                    },
+                    {
+                      "action": "Move the insertion point one word to the right.",
+                      "keys": "Ctrl+Right arrow key"
+                    },
+                    {
+                      "action": "Move the insertion point one character to the left.",
+                      "keys": "Left arrow key"
+                    },
+                    {
+                      "action": "Move the insertion point one word to the left.",
+                      "keys": "Ctrl+Left arrow key"
+                    },
+                    {
+                      "action": "Move the insertion point to the end of the field in single-line fields, or move it to the end of the line in multiline fields.",
+                      "keys": "End"
+                    },
+                    {
+                      "action": "Move the insertion point to the end of the field, in multiline fields.",
+                      "keys": "Ctrl+End"
+                    },
+                    {
+                      "action": "Move the insertion point to the beginning of the field in single-line fields, or move it to the beginning of the line in multiline fields.",
+                      "keys": "Home"
+                    },
+                    {
+                      "action": "Move the insertion point to the beginning of the field, in multiline fields.",
+                      "keys": "Ctrl+Home"
+                    }
+                  ]
+                },
+                {
+                  "title": "Copy, move, or delete text",
+                  "shortcuts": [
+                    {
+                      "action": "Copy the selection to the clipboard.",
+                      "keys": "Ctrl+C"
+                    },
+                    {
+                      "action": "Cut the selection and copy it to the clipboard.",
+                      "keys": "Ctrl+X"
+                    },
+                    {
+                      "action": "Paste the contents of the clipboard at the insertion point.",
+                      "keys": "Ctrl+V"
+                    },
+                    {
+                      "action": "Delete all characters to the right of the insertion point.",
+                      "keys": "Ctrl+Delete"
+                    }
+                  ]
+                },
+                {
+                  "title": "Undo changes",
+                  "shortcuts": [
+                    {
+                      "action": "Undo typing.",
+                      "keys": "Ctrl+Z or Alt+Backspace"
+                    },
+                    {
+                      "action": "Undo changes in the current field or current record.",
+                      "keys": "Esc If both the current field and current record have been changed, press Esc twice to undo changes, first in the current field and then in the current record."
+                    }
+                  ]
+                },
+                {
+                  "title": "Enter data in the Datasheet View or Form View",
+                  "shortcuts": [
+                    {
+                      "action": "Insert the current date.",
+                      "keys": "Ctrl+Semicolon (;)"
+                    },
+                    {
+                      "action": "Insert the current time.",
+                      "keys": "Ctrl+Shift+Colon (:)"
+                    },
+                    {
+                      "action": "Insert the default value for a field.",
+                      "keys": "Ctrl+Alt+Spacebar"
+                    },
+                    {
+                      "action": "Insert the value from the same field in the previous record.",
+                      "keys": "Ctrl+Apostrophe (')"
+                    },
+                    {
+                      "action": "Add a new record.",
+                      "keys": "Ctrl+Plus sign (+)"
+                    },
+                    {
+                      "action": "In a datasheet, delete the current record.",
+                      "keys": "Ctrl+Minus sign (-)"
+                    },
+                    {
+                      "action": "Save changes to the current record.",
+                      "keys": "Shift+Enter"
+                    },
+                    {
+                      "action": "Insert a new line in a Short Text or Long Text field.",
+                      "keys": "Ctrl+Enter"
+                    }
+                  ]
+                },
+                {
+                  "title": "Refresh fields with current data",
+                  "shortcuts": [
+                    {
+                      "action": "Requery the underlying tables or in a subform, requery the underlying table only for the subform.",
+                      "keys": "Shift+F9 or F5"
+                    },
+                    {
+                      "action": "Refresh the contents of a Lookup field list or combo box.",
+                      "keys": "F9"
+                    }
+                  ]
+                },
+                {
+                  "title": "Work and move around in tables",
+                  "shortcuts": [
+                    {
+                      "action": "Move to the next cell.",
+                      "keys": "Tab key"
+                    },
+                    {
+                      "action": "Move to the preceding cell.",
+                      "keys": "Shift+Tab"
+                    },
+                    {
+                      "action": "Move to the next row.",
+                      "keys": "Down arrow key"
+                    },
+                    {
+                      "action": "Move to the preceding row.",
+                      "keys": "Up arrow key"
+                    },
+                    {
+                      "action": "Insert a tab in a cell.",
+                      "keys": "Ctrl+Tab"
+                    },
+                    {
+                      "action": "Start a new paragraph.",
+                      "keys": "Enter"
+                    },
+                    {
+                      "action": "Add a new row at the bottom of the table.",
+                      "keys": "Tab key at the end of the last row"
+                    }
+                  ]
+                },
+                {
+                  "title": "Move around in tables or cells",
+                  "shortcuts": [
+                    {
+                      "action": "Move one character to the left.",
+                      "keys": "Left arrow key"
+                    },
+                    {
+                      "action": "Move one character to the right.",
+                      "keys": "Right arrow key"
+                    },
+                    {
+                      "action": "Move up one line.",
+                      "keys": "Up arrow key"
+                    },
+                    {
+                      "action": "Move down one line.",
+                      "keys": "Down arrow key"
+                    },
+                    {
+                      "action": "Move one word to the left.",
+                      "keys": "Ctrl+Left arrow key"
+                    },
+                    {
+                      "action": "Move one word to the right.",
+                      "keys": "Ctrl+Right arrow key"
+                    },
+                    {
+                      "action": "Move to the end of a line.",
+                      "keys": "End"
+                    },
+                    {
+                      "action": "Move to the beginning of a line.",
+                      "keys": "Home"
+                    },
+                    {
+                      "action": "Move up one paragraph.",
+                      "keys": "Ctrl+Up arrow key"
+                    },
+                    {
+                      "action": "Move down one paragraph.",
+                      "keys": "Ctrl+Down arrow key"
+                    },
+                    {
+                      "action": "Move to the end of a text box.",
+                      "keys": "Ctrl+End"
+                    },
+                    {
+                      "action": "Move to the beginning of a text box.",
+                      "keys": "Ctrl+Home"
+                    },
+                    {
+                      "action": "Repeat the last Find action.",
+                      "keys": "Shift+F4"
+                    }
+                  ]
+                },
+                {
+                  "title": "Get help with Access",
+                  "shortcuts": [
+                    {
+                      "action": "Open the Help window.",
+                      "keys": "F1"
+                    },
+                    {
+                      "action": "Select the next item in the Help window.",
+                      "keys": "Tab key"
+                    },
+                    {
+                      "action": "Select the previous item in the Help window.",
+                      "keys": "Shift+Tab"
+                    },
+                    {
+                      "action": "Perform the action for the selected item.",
+                      "keys": "Enter"
+                    },
+                    {
+                      "action": "Select the next hidden text or hyperlink.",
+                      "keys": "Tab key"
+                    },
+                    {
+                      "action": "Select the previous hidden text or hyperlink.",
+                      "keys": "Shift+Tab"
+                    },
+                    {
+                      "action": "Perform the action for the selected hidden text, or hyperlink.",
+                      "keys": "Enter"
+                    },
+                    {
+                      "action": "Move back to the previous Help topic (Back button).",
+                      "keys": "Alt+Left arrow key or Backspace"
+                    },
+                    {
+                      "action": "Scroll small amounts up or down within the currently displayed Help topic.",
+                      "keys": "Up or Down arrow key"
+                    },
+                    {
+                      "action": "Scroll larger amounts up or down, respectively, within the currently displayed Help topic.",
+                      "keys": "Page up or Page down"
+                    }
+                  ]
+                },
+                {
+                  "title": "Miscellaneous keyboard shortcuts",
+                  "shortcuts": [
+                    {
+                      "action": "Display the complete hyperlink address (URL) for a selected hyperlink.",
+                      "keys": "F2"
+                    },
+                    {
+                      "action": "Copy a screenshot of the current window to the clipboard.",
+                      "keys": "Alt+Print screen"
+                    },
+                    {
+                      "action": "Display the full set of commands on the task pane menu.",
+                      "keys": "Ctrl+Down arrow key"
+                    },
+                    {
+                      "action": "Exit Access.",
+                      "keys": "Alt+F4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ]
     }

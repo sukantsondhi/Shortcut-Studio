@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T11:27:34.308Z",
+  "generatedAt": "2026-06-29T10:15:28.696Z",
   "locale": "en-us",
   "stats": {
     "appCount": 6,
@@ -2976,7 +2976,7 @@
                   "title": "Use the Access keys for ribbon tabs",
                   "shortcuts": [
                     {
-                      "action": "Move to the Tell me or Search field on the ribbon and type a search term for assistance or Help content.",
+                      "action": "Move to the Search field on the ribbon and type a search term for assistance or Help content.",
                       "keys": "Alt+Q, then enter the search term."
                     },
                     {
@@ -3004,7 +3004,7 @@
                       "keys": "Alt+A"
                     },
                     {
-                      "action": "Open the Review tab and check spelling, add notes and threaded comments, and protect sheets and workbooks.",
+                      "action": "Open the Review tab and check spelling, add notes and comments, and protect sheets and workbooks.",
                       "keys": "Alt+R"
                     },
                     {
@@ -3172,7 +3172,7 @@
                     },
                     {
                       "action": "Format fonts in the Format Cells dialog box.",
-                      "keys": "Ctrl+Shift+F or Ctrl+Shift+P"
+                      "keys": "Ctrl+Shift+F"
                     },
                     {
                       "action": "Insert a note.Open and edit a cell note.",
@@ -5048,7 +5048,7 @@
                   "shortcuts": [
                     {
                       "action": "Alt+Windows",
-                      "keys": "To find any command quickly, press WindowsLogo key, Q to jump to the Search or Tell Me text field. In Search or Tell Me, type a word or the name of a command you want (available only in Editing mode). Search or Tell Me searches for related options and provides a list. Use the Up and Down arrow keys to select a command, and then press Enter. Depending on the version of Microsoft 365 you are using, the Search text field at the top of the app window might be called Tell Me instead. Both offer a largely similar experience, but some options and search results can vary."
+                      "keys": "To find any command quickly, press logo key, Q to jump to the Search field. In Search, type a word or the name of a command you want (available only in Editing mode). It searches for related options and provides a list. Use the Up and Down arrow keys to select a command, and then press Enter. Depending on the version of Microsoft 365 you are using, the Search text field at the top of the app window might be called Tell Me instead. Both offer a largely similar experience, but some options and search results can vary."
                     },
                     {
                       "action": "Go To",
@@ -5116,7 +5116,7 @@
                       "keys": "Windows keyboards: Shift+F10 or Windows Menu keyOther keyboards: Shift+F10"
                     },
                     {
-                      "action": "Jump to Search or Tell me.",
+                      "action": "Jump to Search.",
                       "keys": "Alt+Q"
                     },
                     {
@@ -5146,7 +5146,7 @@
                   "shortcuts": [
                     {
                       "action": "Alt+Windows",
-                      "keys": "To get to the ribbon, press WindowsLogo key, or press Ctrl+F6 until you reach the Home tab."
+                      "keys": "To get to the ribbon, press key, or press Ctrl+F6 until you reach the Home tab."
                     },
                     {
                       "action": "Tab",
@@ -5162,8 +5162,8 @@
                   "title": "Go to the access keys for the ribbon",
                   "shortcuts": [
                     {
-                      "action": "Go to the Search or Tell Me field on the ribbon and type a search term.",
-                      "keys": "Alt+Windows WindowsLogo key, Q"
+                      "action": "Go to the Search field on the ribbon and type a search term.",
+                      "keys": "Alt+Windows logo key, Q"
                     },
                     {
                       "action": "Open the File menu.",
@@ -5171,7 +5171,7 @@
                     },
                     {
                       "action": "Open the Home tab and format text and numbers or use other tools such as Sort & Filter.",
-                      "keys": "Alt+Windows WindowsLogo key, H"
+                      "keys": "Alt+Windows logo key, H"
                     },
                     {
                       "action": "Open the Insert tab and insert a function, table, chart, hyperlink, or threaded comment.",
@@ -5179,7 +5179,7 @@
                     },
                     {
                       "action": "Open the Data tab and refresh connections or use data tools.",
-                      "keys": "Alt+Windows WindowsLogo key, A"
+                      "keys": "Alt+Windows logo key, A"
                     },
                     {
                       "action": "Open the Review tab and use the Accessibility Checker or work with threaded comments and notes.",
@@ -5187,7 +5187,7 @@
                     },
                     {
                       "action": "Open the View tab to choose a view, freeze rows or columns in your worksheet, or show gridlines and headers.",
-                      "keys": "Alt+Windows WindowsLogo key, W"
+                      "keys": "Alt+Windows logo key, W"
                     }
                   ]
                 },
@@ -5221,7 +5221,7 @@
                   "shortcuts": [
                     {
                       "action": "Insert a row above the current row.",
-                      "keys": "Alt+Windows WindowsLogo key, H, I, R"
+                      "keys": "Alt+Windows logo key, H, I, R"
                     },
                     {
                       "action": "Insert a column to the left of the current column.",
@@ -5273,7 +5273,7 @@
                     },
                     {
                       "action": "Apply a filter.",
-                      "keys": "Alt+Windows WindowsLogo key, A, T"
+                      "keys": "Alt+Windows logo key, A, T"
                     },
                     {
                       "action": "Re-apply a filter.",
@@ -5669,7 +5669,7 @@
                       "keys": "Tab key or Shift+Tab"
                     },
                     {
-                      "action": "Go to the Search or Tell Me field to run any command.",
+                      "action": "Go to the Search field to run any command.",
                       "keys": "Alt+Q"
                     },
                     {
@@ -11124,7 +11124,7 @@
                     },
                     {
                       "action": "Create a Quick Note.",
-                      "keys": "Ctrl+Shift+M or Alt+Windows WindowsLogo key+N"
+                      "keys": "Ctrl+Shift+M or Alt+Windows key+N"
                     },
                     {
                       "action": "Dock the OneNote window.",
@@ -11358,7 +11358,7 @@
                     },
                     {
                       "action": "Insert a screen clipping.Note: The OneNote icon must be active in the Windows taskbar notification area.",
-                      "keys": "Windows WindowsLogo key+Shift+S, and then Ctrl+V"
+                      "keys": "Windows key+Shift+S, and then Ctrl+V"
                     },
                     {
                       "action": "Insert the current date.",
@@ -11773,7 +11773,7 @@
                   "shortcuts": [
                     {
                       "action": "Open OneNote.",
-                      "keys": "Windows WindowsLogo key+Shift+N"
+                      "keys": "Windows key+Shift+N"
                     },
                     {
                       "action": "Open a notebook.",
@@ -12254,7 +12254,7 @@
                   "shortcuts": [
                     {
                       "action": "Copy a screen clipping to the clipboard (requires the Windows 10 Creators Update).",
-                      "keys": "Windows WindowsLogo key+Shift+S"
+                      "keys": "Windows key+Shift+S"
                     },
                     {
                       "action": "Insert the current date.",

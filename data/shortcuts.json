@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-20T08:32:24.529Z",
+  "generatedAt": "2026-07-27T09:20:41.347Z",
   "locale": "en-us",
   "stats": {
     "appCount": 6,
     "sourceCount": 7,
     "platformCount": 26,
-    "shortcutCount": 3203
+    "shortcutCount": 3230
   },
   "apps": [
     {
@@ -3629,6 +3629,47 @@
                   ]
                 },
                 {
+                  "title": "Copilot in Excel",
+                  "shortcuts": [
+                    {
+                      "action": "Send your prompt, in the Copilot in Excel task pane.",
+                      "keys": "Enter"
+                    },
+                    {
+                      "action": "Stop or cancel the Copilot in Excel request.",
+                      "keys": "Esc"
+                    },
+                    {
+                      "action": "Accept changes made by Copilot in Excel.",
+                      "keys": "Ctrl+Enter"
+                    },
+                    {
+                      "action": "Switch between edit, chat, and plan mode in the Copilot in Excel task pane.",
+                      "keys": "Ctrl+Shift+M"
+                    },
+                    {
+                      "action": "Navigate between chat responses in the Copilot in Excel task pane.",
+                      "keys": "Alt+C"
+                    },
+                    {
+                      "action": "Confirm use of selected files in the Copilot in Excel task pane.",
+                      "keys": "Ctrl+J"
+                    },
+                    {
+                      "action": "Start dictation for Copilot in Excel.",
+                      "keys": "Alt+Shift+H"
+                    },
+                    {
+                      "action": "Open the Copilot in Excel task pane.",
+                      "keys": "Alt+C"
+                    },
+                    {
+                      "action": "Move focus between the Excel grid and the Copilot in Excel task pane.",
+                      "keys": "F6"
+                    }
+                  ]
+                },
+                {
                   "title": "Function keys",
                   "shortcuts": [
                     {
@@ -4656,6 +4697,47 @@
                   ]
                 },
                 {
+                  "title": "Copilot in Excel",
+                  "shortcuts": [
+                    {
+                      "action": "Send your prompt, in the Copilot in Excel task pane.",
+                      "keys": "Return"
+                    },
+                    {
+                      "action": "Stop or cancel the Copilot in Excel request.",
+                      "keys": "Esc"
+                    },
+                    {
+                      "action": "Accept changes made by Copilot in Excel.",
+                      "keys": "Cmd+Return"
+                    },
+                    {
+                      "action": "Switch between edit, chat, and plan mode in the Copilot in Excel task pane.",
+                      "keys": "Cmd+Shift+M"
+                    },
+                    {
+                      "action": "Navigate between chat responses in the Copilot in Excel task pane.",
+                      "keys": "Option+C"
+                    },
+                    {
+                      "action": "Confirm use of selected files in the Copilot in Excel task pane.",
+                      "keys": "Cmd+J"
+                    },
+                    {
+                      "action": "Start dictation for Copilot in Excel.",
+                      "keys": "Option+Shift+H"
+                    },
+                    {
+                      "action": "Open the Copilot in Excel task pane.",
+                      "keys": "Cmd+Ctrl+I"
+                    },
+                    {
+                      "action": "Move focus between the Excel grid and the Copilot in Excel task pane.",
+                      "keys": "Shift+F6"
+                    }
+                  ]
+                },
+                {
                   "title": "Use function key shortcuts",
                   "shortcuts": [
                     {
@@ -5654,6 +5736,47 @@
                     {
                       "action": "Apply Flash Fill.",
                       "keys": "Ctrl+E"
+                    }
+                  ]
+                },
+                {
+                  "title": "Copilot in Excel",
+                  "shortcuts": [
+                    {
+                      "action": "Send your prompt, in the Copilot in Excel task pane.",
+                      "keys": "Enter or Return"
+                    },
+                    {
+                      "action": "Stop or cancel the Copilot in Excel request.",
+                      "keys": "Esc"
+                    },
+                    {
+                      "action": "Accept changes made by Copilot in Excel.",
+                      "keys": "Ctrl+Enter or Cmd+Return"
+                    },
+                    {
+                      "action": "Switch between edit, chat, and plan mode in the Copilot in Excel task pane.",
+                      "keys": "Ctrl+Shift+M or Cmd+Shift+M"
+                    },
+                    {
+                      "action": "Navigate between chat responses in the Copilot in Excel task pane.",
+                      "keys": "Alt+C or Option+C"
+                    },
+                    {
+                      "action": "Confirm use of selected files in the Copilot in Excel task pane.",
+                      "keys": "Ctrl+J or Cmd+J"
+                    },
+                    {
+                      "action": "Start dictation for Copilot in Excel.",
+                      "keys": "Alt+Shift+H or Option+Shift+H"
+                    },
+                    {
+                      "action": "Open the Copilot in Excel task pane.",
+                      "keys": "Alt+C or Cmd+Ctrl+I"
+                    },
+                    {
+                      "action": "Move focus between the Excel grid and the Copilot in Excel task pane.",
+                      "keys": "F6 or Shift+F6"
                     }
                   ]
                 },

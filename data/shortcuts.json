@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-02T13:57:16.740Z",
+  "generatedAt": "2026-11-09T14:29:30.700Z",
   "locale": "en-us",
   "stats": {
     "appCount": 6,
     "sourceCount": 7,
     "platformCount": 26,
-    "shortcutCount": 3230
+    "shortcutCount": 3234
   },
   "apps": [
     {
@@ -8290,8 +8290,8 @@
                   "title": "General",
                   "shortcuts": [
                     {
-                      "action": "Slide Show Help",
-                      "keys": "During the presentation, to open a list of shortcuts, press F1. Use the arrow keys to move between the tabs in the dialog box."
+                      "action": "F1",
+                      "keys": "During the presentation, to open a list of shortcuts, press . Use the arrow keys to move between the tabs in the Slide Show Help dialog box."
                     }
                   ]
                 },
@@ -8662,8 +8662,12 @@
                   "title": "Skip ahead in your presentation",
                   "shortcuts": [
                     {
-                      "action": "Slide Navigator",
-                      "keys": "Press the Tab key until you reach the control (filmstrip)."
+                      "action": "Tab",
+                      "keys": "Press the key until you reach the Slide Navigator control (filmstrip)."
+                    },
+                    {
+                      "action": "Left",
+                      "keys": "Press and hold down the Option key and press the or Right arrow key repeatedly until you find the slide you want to skip to."
                     }
                   ]
                 },
@@ -8671,16 +8675,20 @@
                   "title": "Turn on the keyboard control navigation",
                   "shortcuts": [
                     {
-                      "action": "System Preferences",
-                      "keys": "Press Control+Option+Down arrow key until you hear \"System preferences ellipses, \" and then press Control+Option+Spacebar. The window opens. The focus is in the Search text box."
+                      "action": "Control",
+                      "keys": "On your computer, press+Option+M to access the Apple menu bar item. To open the Apple menu, press Control+Option+Spacebar."
                     },
                     {
-                      "action": "Keyboard",
-                      "keys": "Type, and then press Return. The Keyboard dialog box opens."
+                      "action": "Control",
+                      "keys": "Press+Option+Down arrow key until you hear \"System preferences ellipses, \" and then press Control+Option+Spacebar. The System Preferences window opens. The focus is in the Search text box."
                     },
                     {
-                      "action": "Press Control+Option+Right arrow key until you hear",
-                      "keys": "\"Use keyboard navigation to move focus between controls.\" VoiceOver also announces if the option is selected or unselected. To toggle the option on or off, press Control+Option+Spacebar."
+                      "action": "Control",
+                      "keys": "Press+Option+Right arrow key until you hear \"Shortcuts tab, \" and then press Control+Option+Spacebar."
+                    },
+                    {
+                      "action": "Control",
+                      "keys": "Press+Option+Right arrow key until you hear: \"Use keyboard navigation to move focus between controls.\" VoiceOver also announces if the option is selected or unselected. To toggle the option on or off, press Control+Option+Spacebar."
                     },
                     {
                       "action": "Keyboard",
@@ -8695,7 +8703,16 @@
               "sections": [
                 {
                   "title": "General",
-                  "shortcuts": []
+                  "shortcuts": [
+                    {
+                      "action": "Ctrl",
+                      "keys": "To quickly find a shortcut in this article, you can use Search. Press+F, and then type your search words."
+                    },
+                    {
+                      "action": "Ctrl",
+                      "keys": "When you use PowerPoint for the web, we recommend that you use Microsoft Edge as your web browser. Because PowerPoint for the web runs in your web browser, the keyboard shortcuts are different from those in the desktop program. For example, you'll use+F6 instead of F6 for jumping in and out of the commands. Also, common shortcuts like F1 (Help) and Ctrl+O (Open) apply to the web browser - not PowerPoint for the web."
+                    }
+                  ]
                 },
                 {
                   "title": "Control the slide show",
